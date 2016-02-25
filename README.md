@@ -15,4 +15,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 ### Fev
 
 - [Day 24](https://github.com/lfeh/dailylog/blob/master/log/24-02-2016.md) `responsive design` `animations` `killing spams` `calc()` `nth-child` `ux` `music` `technology`
-- [Day 24](https://github.com/lfeh/dailylog/blob/master/log/25-02-2016.md) `mixins vs @extends` `facebook add new reaction buttons` `ux` `music` `technology`
+- [Day 25](https://github.com/lfeh/dailylog/blob/master/log/25-02-2016.md) `mixins vs @extends` `facebook add new reaction buttons` `ux` `music` `technology`
