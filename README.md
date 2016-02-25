@@ -10,6 +10,8 @@ My daily log day after day.
 
 Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog/)
 
-## 2016 - Fev
+## 2016 
+
+### Fev
 
 - [Day 24](https://github.com/lfeh/dailylog/blob/master/log/24-02-2016.md) `responsive design` `animations` `killing spams` `ux` `calc()` `nth-child` `ux` `music` `technology`
