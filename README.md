@@ -17,5 +17,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 24](https://github.com/lfeh/dailylog/blob/master/log/24-02-2016.md) `responsive design` `animations` `killing spams` `calc()` `nth-child` `ux` `music` `technology`
 - [Day 25](https://github.com/lfeh/dailylog/blob/master/log/25-02-2016.md) `meetupCSS` `mixins vs @extends` `facebook add new reaction buttons` `ux` `music` `technology`
 - [Day 26](https://github.com/LFeh/dailylog/blob/master/log/26-02-2016.md) `events are much important!` `count with css` `technology` `i want sleep better` `messi and suarez`
-- Day 27 `girlfriend` `show of rolling stones!` `burguer king`
-- Day 28 `girlfriend` `soccer` `sleep` `friends`
+- Day 27 `show of rolling stones!` `burguer king`
+- Day 28 `play soccer` `sleep` `friends`
+- Day 29 `rem vs em` `svg icons` `telephone links` `ux` `irpf` `rolling stones` `comedy` `soccer`
