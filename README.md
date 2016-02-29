@@ -19,4 +19,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 26](https://github.com/LFeh/dailylog/blob/master/log/26-02-2016.md) `events are much important!` `count with css` `technology` `i want sleep better` `messi and suarez`
 - Day 27 `show of rolling stones!` `burguer king`
 - Day 28 `play soccer` `sleep` `friends`
-- Day 29 `rem vs em` `svg icons` `telephone links` `ux` `irpf` `rolling stones` `comedy` `soccer`
+- [Day 29](https://github.com/LFeh/dailylog/blob/master/log/29-02-2016.md) `rem vs em` `svg icons` `telephone links` `ux` `irpf` `rolling stones` `comedy` `soccer`
