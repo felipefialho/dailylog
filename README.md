@@ -20,3 +20,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 27 `show of rolling stones!` `burguer king`
 - Day 28 `play soccer` `sleep` `friends`
 - [Day 29](https://github.com/LFeh/dailylog/blob/master/log/02-29-2016.md) `rem vs em` `svg icons` `telephone links` `ux` `irpf` `rolling stones` `comedy` `soccer`
+ 
+### Mar
+
+- [Day 01](https://github.com/LFeh/dailylog/blob/master/log/02-29-2016.md) `cash in your job` `cx` `creativity` `worst game of history` `lingerieday` `disinformation` `cook`
