@@ -23,4 +23,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
  
 ### Mar
 
-- [Day 01](https://github.com/LFeh/dailylog/blob/master/log/02-29-2016.md) `cash in your job` `cx` `creativity` `worst game of history` `lingerieday` `disinformation` `cook`
+- [Day 01](https://github.com/LFeh/dailylog/blob/master/log/03-01-2016.md) `cash in your job` `cx` `creativity` `worst game of history` `lingerieday` `disinformation` `cook`
