@@ -24,4 +24,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 ### Mar
 
 - [Day 01](https://github.com/LFeh/dailylog/blob/master/log/03-01-2016.md) `cash in your job` `ux(cx)` `creativity` `worst game of history` `lingerieday` `disinformation` `cook` `finances`
-- [Day 02](https://github.com/LFeh/dailylog/blob/master/log/03-02-2016.md) `flexbox` `svg` `git` `I s2 mixins()` `ux` `finances` `soccer` `corinthians x santa fe` `music` `focus` `mc donalds x burguer king` 
+- [Day 02](https://github.com/LFeh/dailylog/blob/master/log/03-02-2016.md) `flexbox` `svg` `git` `I s2 mixins()` `ux` `finances` `corinthians x santa fe` `music` `focus`  
