@@ -25,3 +25,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 
 - [Day 01](https://github.com/LFeh/dailylog/blob/master/log/03-01-2016.md) `cash in your job` `ux(cx)` `creativity` `worst game of history` `lingerieday` `disinformation` `cook` `finances`
 - [Day 02](https://github.com/LFeh/dailylog/blob/master/log/03-02-2016.md) `flexbox` `svg` `git` `I s2 mixins()` `ux` `finances` `corinthians x santa fe` `music` `focus`  
+- [Day 03](https://github.com/LFeh/dailylog/blob/master/log/03-03-2016.md) `css scroll snap points` `finances` `music` `focus` `chromecast`   
