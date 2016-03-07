@@ -27,3 +27,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 02](https://github.com/LFeh/dailylog/blob/master/log/03-02-2016.md) `flexbox` `svg` `git` `I s2 mixins()` `ux` `finances` `corinthians x santa fe` `music` `focus`  
 - [Day 03](https://github.com/LFeh/dailylog/blob/master/log/03-03-2016.md) `css scroll snap points` `finances` `music` `focus` `chromecast` 
 - [Day 04](https://github.com/LFeh/dailylog/blob/master/log/03-03-2016.md) `css modules` `background-gradient > box-shadow inset` `ux` `finances` `politic` `music` `life` 
+- Day 05 `ragazzo` `japanese food` `psicose` 
+- Day 06 `soccer` `friends` `corinthians x santos`  
