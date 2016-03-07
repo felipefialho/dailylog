@@ -29,3 +29,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 04](https://github.com/LFeh/dailylog/blob/master/log/03-03-2016.md) `css modules` `background-gradient > box-shadow inset` `ux` `finances` `politic` `music` `life` 
 - Day 05 `ragazzo` `japanese food` `psicose` 
 - Day 06 `soccer` `friends` `corinthians x santos`  
+- [Day 07](https://github.com/LFeh/dailylog/blob/master/log/03-07-2016.md) `will-change` `rucksack bug` `ux` `finances` `soccer` `technology`
