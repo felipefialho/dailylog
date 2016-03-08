@@ -30,4 +30,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 05 `ragazzo` `japanese food` `psicose` 
 - Day 06 `soccer` `friends` `corinthians x santos`  
 - [Day 07](https://github.com/LFeh/dailylog/blob/master/log/03-07-2016.md) `will-change` `rucksack bug` `ux` `finances` `soccer` `technology`
-- [Day 8](https://github.com/LFeh/dailylog/blob/master/log/08-03-2016.md) `input[value=""] tip` `learn english` `ux` `startups` `finances` `music`
+- [Day 08](https://github.com/LFeh/dailylog/blob/master/log/08-03-2016.md) `input[value=""] tip` `learn english` `ux` `startups` `finances` `music`
