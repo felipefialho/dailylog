@@ -35,4 +35,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 10](https://github.com/LFeh/dailylog/blob/master/log/03-10-2016.md) `performance` `async` `pseudo elements and javascript` `ux` `focus and productivity` `went to gym` 
 - [Day 11](https://github.com/LFeh/dailylog/blob/master/log/03-11-2016.md) `typography` `without jQuery` `aspect ratio` `interpolation` `finances` `technology` `bear with friends`
 - Day 12  `ragazzo` `osaka japanese food`  
-- Day 13 `played soccer` `cook homemade burguer` `sleeping`
+- Day 13 `played soccer` `cook homemade burguer` `sleep`
