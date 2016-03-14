@@ -36,3 +36,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 11](https://github.com/LFeh/dailylog/blob/master/log/03-11-2016.md) - Read: `typography` `without jQuery` `aspect ratio` `interpolation` `finances` `technology` / Did: `bear with friends`
 - Day 12 - Did: `ragazzo` `osaka japanese food`  
 - Day 13 - Did: `played soccer` `cook homemade burguer` `sleep`
+- [Day 14](https://github.com/LFeh/dailylog/blob/master/log/03-14-2016.md) - Read: `rem and em` `advanced css selectors` `postcss` `ux` `finances` / Did: `english class` `gym` 
