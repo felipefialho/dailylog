@@ -26,7 +26,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 01](https://github.com/LFeh/dailylog/blob/master/log/03-01-2016.md) - Read: `cash in your job` `ux(cx)` `creativity` `worst game of history` `cook` `finances` / Did: `gym` `studied english`
 - [Day 02](https://github.com/LFeh/dailylog/blob/master/log/03-02-2016.md) - Read: `flexbox` `svg` `git` `I s2 mixins()` `ux` `finances` `corinthians x santa fe` `music` `focus` / Did: `english class` `gym`  
 - [Day 03](https://github.com/LFeh/dailylog/blob/master/log/03-03-2016.md) - Read: `css scroll snap points` `finances` `music` `focus` `chromecast` / Did:  `gym` `studied english` 
-- [Day 04](https://github.com/LFeh/dailylog/blob/master/log/03-03-2016.md) - Read: `css modules` `background-gradient > box-shadow inset` `ux` `finances` `politic` `music` `life` / Did: `gym` 
+- [Day 04](https://github.com/LFeh/dailylog/blob/master/log/03-04-2016.md) - Read: `css modules` `background-gradient > box-shadow inset` `ux` `finances` `politic` `music` `life` / Did: `gym` 
 - Day 05 - Did: `ragazzo` `osaka japanese food` `psicose` 
 - Day 06 - Did: `played soccer` `corinthians x santos` `ragazzo again!` 
 - [Day 07](https://github.com/LFeh/dailylog/blob/master/log/03-07-2016.md) - Read: `will-change` `rucksack bug` `ux` `finances` `soccer` `technology` / Did: `english class` `gym`
