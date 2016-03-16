@@ -38,6 +38,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 13 - Did: `played soccer` `cook homemade burguer` `sleep`
 - [Day 14](https://github.com/LFeh/dailylog/blob/master/log/03-14-2016.md) - Read: `rem and em` `advanced css selectors` `postcss` `ux` `finances` / Did: `english class` `gym` 
 - [Day 15](https://github.com/LFeh/dailylog/blob/master/log/03-15-2016.md) - Read: `performance` `css background` `rel=noopener` `svg` `ux` `motivation` / Did: `english studied` `gym` 
-- [Day 16](https://github.com/LFeh/dailylog/blob/master/log/03-15-2016.md) - Read: `svg` `motion design + ux` `design` / Did: `english class` `gym` `corinthians x cerro porteño`
+- [Day 16](https://github.com/LFeh/dailylog/blob/master/log/03-16-2016.md) - Read: `svg` `motion design + ux` `design` / Did: `english class` `gym` `corinthians x cerro porteño`
 
 
