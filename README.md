@@ -41,5 +41,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 16](https://github.com/LFeh/dailylog/blob/master/log/03-16-2016.md) - Read: `svg` `motion design + ux` `design` / Did: `english class` `gym` `corinthians x cerro porteño`
 - [Day 17](https://github.com/LFeh/dailylog/blob/master/log/03-17-2016.md) - Read: `will-change` `menu mobile` `button design` `colors and emotions` `collapse of brazil` / Did: `gym`  
 - [Day 18](https://github.com/LFeh/dailylog/blob/master/log/03-18-2016.md) - Read: `generation y` `collapse of brazil`
-
+- Day 19 - Did: `barbecue` `bear`  
+- Day 20 - Did: `lunch with friends` 
 
