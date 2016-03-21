@@ -43,5 +43,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 18](https://github.com/LFeh/dailylog/blob/master/log/03-18-2016.md) - Read: `generation y` `collapse of brazil`
 - Day 19 - Did: `barbecue` `bear`  
 - Day 20 - Did: `lunch with friends` 
-- [Day 21](https://github.com/LFeh/dailylog/blob/master/log/03-21-2016.md) Read: `twitter` `ux` `finances` / Did: `english class` `gym`
+- [Day 21](https://github.com/LFeh/dailylog/blob/master/log/03-21-2016.md) - Read: `twitter` `ux` `finances` / Did: `english class` `gym`
 
