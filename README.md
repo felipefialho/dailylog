@@ -44,5 +44,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 19 - Did: `barbecue` `bear`  
 - Day 20 - Did: `lunch with friends` 
 - [Day 21](https://github.com/LFeh/dailylog/blob/master/log/03-21-2016.md) - Read: `twitter` `ux` `finances` / Did: `english class` `gym`
-- [Day 22](https://github.com/LFeh/dailylog/blob/master/log/03-22-2016.md) - Read: `svg` `icons` `sublime` `ux` / Did:  `meetupcss`
+- [Day 22](https://github.com/LFeh/dailylog/blob/master/log/03-22-2016.md) - Read: `svg` `icons` `sublime` `ux` / Did:  `meetupcss` `studied english` 
 
