@@ -47,4 +47,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 22](https://github.com/LFeh/dailylog/blob/master/log/03-22-2016.md) - Read: `svg` `icons` `sublime` `ux` / Did:  `meetupcss` 
 - [Day 23](https://github.com/LFeh/dailylog/blob/master/log/03-23-2016.md) - Read: `multiple columns` `nodejs` `ux` `finances` / Did: `english class` `gym`
 - [Day 24](https://github.com/LFeh/dailylog/blob/master/log/03-24-2016.md) - Read: `full page animations` `git` `breaking of the internet` `ux` `politic` `science` / Did: `gym` 
-
+- Day 25 - Did: `trip to americana` `bear` 
+- Day 26 - Did: `trip to americana` `bear` `vodka` `barbecue`
+- Day 27 - Did: `trip to americana` `hangover`
