@@ -50,4 +50,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 25 - Did: `trip to americana` `bear` 
 - Day 26 - Did: `trip to americana` `bear` `vodka` `barbecue`
 - Day 27 - Did: `trip to americana` `hangover`
-- [Day 28](https://github.com/LFeh/dailylog/blob/master/log/03-28-2016.md) - Read: `font-face` `css` `nodejs` `ux` `finances` / Did: `english class` `gym`
+- [Day 28](https://github.com/LFeh/dailylog/blob/master/log/03-28-2016.md) - Read: `font-face` `css` `nodejs` `ux` `finances` / Did: `english class`  
+- [Day 29](https://github.com/LFeh/dailylog/blob/master/log/03-29-2016.md) - Read: `css` `github` `open source` `ux` `clt` / Did: `studied english` `gym`
