@@ -53,3 +53,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 28](https://github.com/LFeh/dailylog/blob/master/log/03-28-2016.md) - Read: `font-face` `css` `nodejs` `ux` `finances` / Did: `english class`  
 - [Day 29](https://github.com/LFeh/dailylog/blob/master/log/03-29-2016.md) - Read: `css` `github` `open source` `ux` `clt` / Did: `studied english` `gym` `write new article`
 - [Day 30](https://github.com/LFeh/dailylog/blob/master/log/03-30-2016.md) - Read: `svg` `preprocessors` `bash` `ux` `events` / Did: `english class` `gym`
+- [Day 31](https://github.com/LFeh/dailylog/blob/master/log/03-31-2016.md) - Read: `css` `ux` `amsterdam` / Did: `studied english` `gym` 
