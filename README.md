@@ -59,5 +59,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 
 - [Day 01](https://github.com/LFeh/dailylog/blob/master/log/04-01-2016.md) - Read: `finances` `music` `internet censorship` `corinthians x palmeiras` / Did: `gym` 
 - Day 02 - Did: `bear` `outback` `studied english`
-- Day 03 - Did: `played soccer` `mexicanissimo` `project of events`
+- Day 03 - Did: `played soccer` `corinthians x palmeiras` `mexicanissimo` `project of events`
 
