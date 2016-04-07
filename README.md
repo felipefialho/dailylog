@@ -53,14 +53,14 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 28](https://github.com/LFeh/dailylog/blob/master/log/03-28-2016.md) - Read: `font-face` `css` `nodejs` `ux` `finances` / Did: `english class`  
 - [Day 29](https://github.com/LFeh/dailylog/blob/master/log/03-29-2016.md) - Read: `css` `github` `open source` `ux` `clt` / Did: `studied english` `gym` `write new article`
 - [Day 30](https://github.com/LFeh/dailylog/blob/master/log/03-30-2016.md) - Read: `svg` `preprocessors` `bash` `ux` `events` / Did: `english class` `gym`
-- [Day 31](https://github.com/LFeh/dailylog/blob/master/log/03-31-2016.md) - Read: `css` `ux` `amsterdam` / Did: `studied english` `gym` `init project of events`
+- [Day 31](https://github.com/LFeh/dailylog/blob/master/log/03-31-2016.md) - Read: `css` `ux` `amsterdam` / Did: `studied english` `gym` `open source: init events`
 
 ### Apr
 
 - [Day 01](https://github.com/LFeh/dailylog/blob/master/log/04-01-2016.md) - Read: `finances` `music` `internet censorship` `corinthians x palmeiras` / Did: `gym` 
 - Day 02 - Did: `bear` `outback` `studied english`
-- Day 03 - Did: `played soccer` `corinthians x palmeiras` `mexicanissimo` `project of events`
+- Day 03 - Did: `played soccer` `corinthians x palmeiras` `mexicanissimo` `open source: events`
 - [Day 04](https://github.com/LFeh/dailylog/blob/master/log/04-04-2016.md) - Read:  `git` `ux` `stop learning` `finances` `guns n'roses` / Did: `english class` `gym` 
 - [Day 05](https://github.com/LFeh/dailylog/blob/master/log/04-05-2016.md) - Read:  `css` `ux` `motivation` `finances` / Did: `gym` 
-- [Day 06](https://github.com/LFeh/dailylog/blob/master/log/04-06-2016.md) - Read:  `css` `react` `ux` `clt` `internet censorship` / Did: `english class` `gym` 
-
+- [Day 06](https://github.com/LFeh/dailylog/blob/master/log/04-06-2016.md) - Read:  `css` `react` `ux` `clt` `internet censorship` / Did: `english class` `gym` `open source: events` 
+- [Day 07](https://github.com/LFeh/dailylog/blob/master/log/04-07-2016.md) - Read:  `css` `debouncing and throttling` `motivation` / Did: `studied english` `gym`
