@@ -63,4 +63,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 04](https://github.com/LFeh/dailylog/blob/master/log/04-04-2016.md) - Read:  `git` `ux` `stop learning` `finances` `guns n'roses` / Did: `english class` `gym` 
 - [Day 05](https://github.com/LFeh/dailylog/blob/master/log/04-05-2016.md) - Read:  `css` `ux` `motivation` `finances` / Did: `gym` 
 - [Day 06](https://github.com/LFeh/dailylog/blob/master/log/04-06-2016.md) - Read:  `css` `react` `ux` `clt` `internet censorship` / Did: `english class` `gym` `open source: events` 
-- [Day 07](https://github.com/LFeh/dailylog/blob/master/log/04-07-2016.md) - Read:  `css` `debouncing and throttling` `motivation` / Did: `studied english` `gym`
+- [Day 07](https://github.com/LFeh/dailylog/blob/master/log/04-07-2016.md) - Read:  `css` `debouncing and throttling` `motivation` / Did: `studied english` `gym`  `open source: events` 
