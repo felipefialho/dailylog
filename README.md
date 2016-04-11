@@ -67,3 +67,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 08](https://github.com/LFeh/dailylog/blob/master/log/04-08-2016.md) - Read:  `Z-axis` `What happens when...` `ux`  
 - Day 09 - Did: `party with friends` `beer`  
 - Day 10 - Did: `soccer` `hangover` `niwa japanese food`
+- [Day 11](https://github.com/LFeh/dailylog/blob/master/log/04-11-2016.md) - Read: `frontend` `ux` `events` `limit of data` `guns n roses` / Did: `english class` `gym` 
