@@ -69,3 +69,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 10 - Did: `soccer` `hangover` `niwa japanese food`
 - [Day 11](https://github.com/LFeh/dailylog/blob/master/log/04-11-2016.md) - Read: `frontend` `ux` `events` `limit of data` `guns n roses` / Did: `english class` `gym` 
 - Day 12 - Read: `very busy day =(` / Did: `open source: events` `gym` 
+- [Day 13](https://github.com/LFeh/dailylog/blob/master/log/04-13-2016.md) - Read: `frontend` / Did: `english class` `gym` 
