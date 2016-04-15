@@ -71,3 +71,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 12 - Read: `very busy day =(` / Did: `open source: events` `gym` 
 - [Day 13](https://github.com/LFeh/dailylog/blob/master/log/04-13-2016.md) - Read: `frontend` `politic` `technology` / Did: `english class` `gym` `open source: events`
 - [Day 14](https://github.com/LFeh/dailylog/blob/master/log/04-14-2016.md) - Read: `css` `ux` `work` `motivation` / Did: `gym` `open source: events`
+- [Day 15](https://github.com/LFeh/dailylog/blob/master/log/04-15-2016.md) - Read: `ux` `svg` `balance your life` `juvenoia` / Did: `gym` 
