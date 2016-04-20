@@ -76,4 +76,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 17 - Did: `club house` `hangover`
 - [Day 18](https://github.com/LFeh/dailylog/blob/master/log/04-18-2016.md) - Read: `css` `survey` `ux` / Did: `english test` `gym`
 - [Day 19](https://github.com/LFeh/dailylog/blob/master/log/04-19-2016.md) - Read: `css` `survey abroad` `ux` `politic` / Did: `gym`
-
+- [Day 20](https://github.com/LFeh/dailylog/blob/master/log/04-20-2016.md) - Read: `ux` / Did: `english class` `gym`
+ 
