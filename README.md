@@ -73,8 +73,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 14](https://github.com/LFeh/dailylog/blob/master/log/04-14-2016.md) - Read: `css` `ux` `work` `motivation` / Did: `gym` `open source: events`
 - [Day 15](https://github.com/LFeh/dailylog/blob/master/log/04-15-2016.md) - Read: `ux` `svg` `balance your life` `juvenoia` / Did: `gym` 
 - Day 16 - Did: `party` `bear` `vodka` `barbecue`
-- Day 17 - Did: `club house` `hangover`
+- Day 17 - Did: `club house food` `hangover`
 - [Day 18](https://github.com/LFeh/dailylog/blob/master/log/04-18-2016.md) - Read: `css` `survey` `ux` / Did: `english test` `gym`
 - [Day 19](https://github.com/LFeh/dailylog/blob/master/log/04-19-2016.md) - Read: `css` `survey abroad` `ux` `politic` / Did: `gym`
 - [Day 20](https://github.com/LFeh/dailylog/blob/master/log/04-20-2016.md) - Read: `ux` / Did: `english class` `gym`
- 
+- Day 21 - Did: `soccer`
