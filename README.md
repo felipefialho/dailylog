@@ -78,3 +78,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 19](https://github.com/LFeh/dailylog/blob/master/log/04-19-2016.md) - Read: `css` `survey abroad` `ux` `politic` / Did: `gym`
 - [Day 20](https://github.com/LFeh/dailylog/blob/master/log/04-20-2016.md) - Read: `ux` / Did: `english class` `gym`
 - Day 21 - Did: `soccer`
+- Day 22 - Did: `party`
+- Day 23 - Did: `pool + beer` `janis rock bar`
+- Day 24 - Did: `soccer` 
