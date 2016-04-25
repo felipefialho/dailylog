@@ -81,3 +81,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 22 - Did: `party`
 - Day 23 - Did: `pool + beer` `janis rock bar`
 - Day 24 - Did: `soccer` 
+- [Day 25](https://github.com/LFeh/dailylog/blob/master/log/04-25-2016.md) - Read: `css counters` `ux` / Did: `english class` `gym`
+ 
