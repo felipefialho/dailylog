@@ -83,5 +83,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 24 - Did: `soccer` 
 - [Day 25](https://github.com/LFeh/dailylog/blob/master/log/04-25-2016.md) - Read: `css counters` `ux` / Did: `english class` `gym`
 - [Day 26](https://github.com/LFeh/dailylog/blob/master/log/04-26-2016.md) - Read: `frontend` `ux` `motivation` / Did: `happy birthday to me` `food on cao veio`
-- [Day 27](https://github.com/LFeh/dailylog/blob/master/log/04-26-2016.md) - Read: `svg` `ux`  / Did: `english class` `gym`
- 
+- [Day 27](https://github.com/LFeh/dailylog/blob/master/log/04-27-2016.md) - Read: `svg` `ux` / Did: `english class` `gym`
+- [Day 28](https://github.com/LFeh/dailylog/blob/master/log/04-28-2016.md) - Read: `css blend modes` `motivation` / Did: `studied english` `gym`
