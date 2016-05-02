@@ -86,3 +86,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 27](https://github.com/LFeh/dailylog/blob/master/log/04-27-2016.md) - Read: `svg` `ux` / Did: `english class` `gym`
 - [Day 28](https://github.com/LFeh/dailylog/blob/master/log/04-28-2016.md) - Read: `css blend modes` `motivation` / Did: `studied english` `gym`
 - [Day 29](https://github.com/LFeh/dailylog/blob/master/log/04-29-2016.md) - Read: `postcss` `ux` `motivation` / Did: `studied english` `gym`
+- Day 30 - Did: `party + beer`
+
+### May
+
+- Day 01 - Did: `soccer`
