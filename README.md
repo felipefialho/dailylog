@@ -91,4 +91,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 ### May
 
 - Day 01 - Did: `soccer`
-- [Day 02](https://github.com/LFeh/dailylog/blob/master/log/05-02-2016.md) - Read: `icons` `ux` `senior x junior`  / Did: `english class` `gym`
+- [Day 02](https://github.com/LFeh/dailylog/blob/master/log/05-02-2016.md) - Read: `icons` `ux` `senior x junior`  / Did: `english class` `sick :(`
