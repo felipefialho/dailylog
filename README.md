@@ -95,4 +95,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 03](https://github.com/LFeh/dailylog/blob/master/log/05-03-2016.md) - Read: `pseudo-classes and pseudo-elements` `animation comparison` `ux` `work / motivation` `finances`/ Did: `meetup css` `sick :(` `hospital`
 - Day 04 - Did: `very sick, no read today =(` `studied english` `corinthians x nacional`
 - [Day 05](https://github.com/LFeh/dailylog/blob/master/log/05-05-2016.md) - Read: `css` `ux` `work / motivation` / Did: `studied english` `sick :(` 
+- [Day 06](https://github.com/LFeh/dailylog/blob/master/log/05-06-2016.md) - Read: `frontend` `ux` `work / motivation`  / Did: `studied english` `sick again :(` 
 
