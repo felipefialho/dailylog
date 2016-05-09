@@ -98,3 +98,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 06](https://github.com/LFeh/dailylog/blob/master/log/05-06-2016.md) - Read: `frontend` `ux` `work / motivation`  / Did: `studied english` `sick again :(` `gym`
 - Day 07 - Did: `party` `bar`
 - Day 08 - Did: `osaka japanese food`  
+- [Day 09](https://github.com/LFeh/dailylog/blob/master/log/05-09-2016.md) - Read: `css` `ux` `work / motivation` / Did: `english class` `gym`
+
