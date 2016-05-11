@@ -99,5 +99,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 07 - Did: `party` `bar`
 - Day 08 - Did: `osaka japanese food`  
 - [Day 09](https://github.com/LFeh/dailylog/blob/master/log/05-09-2016.md) - Read: `css` `ux` `work / motivation` / Did: `english class` `gym` `open source: my website`
-- [Day 10](https://github.com/LFeh/dailylog/blob/master/log/05-10-2016.md) - Read: `fluid typography` `ux` `work / motivation`  / Did: `studied english` `gym` `open source: my website`
+- [Day 10](https://github.com/LFeh/dailylog/blob/master/log/05-10-2016.md) - Read: `fluid typography` `ux` `work / motivation`/ Did: `studied english` `gym` `open source: my website`
+- [Day 11](https://github.com/LFeh/dailylog/blob/master/log/05-11-2016.md) - Read: `svg` `large screens` `ux` `work / motivation` `finances`  / Did: `english class` `gym` 
 
