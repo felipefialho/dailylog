@@ -103,5 +103,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 11](https://github.com/LFeh/dailylog/blob/master/log/05-11-2016.md) - Read: `svg` `large screens` `ux` `work / motivation` `finances`  / Did: `english class` `gym` 
 - [Day 12](https://github.com/LFeh/dailylog/blob/master/log/05-12-2016.md) - Read: `icons` `flexbox` `work / motivation` / Did: `studied english` `gym`
 - [Day 13](https://github.com/LFeh/dailylog/blob/master/log/05-13-2016.md) - Read: `ux` `work / motivation` / Did: `studied english` `gym` `open source: my website`
+- Day 14 - Did: `maifest`
+- Day 15 - Did: `soccer` `sleep` `open source: my website` 
+- [Day 16](https://github.com/LFeh/dailylog/blob/master/log/05-16-2016.md) - Read: `front-end` `ux` / Did: `english class` `gym` `open source: my website`
 
 
