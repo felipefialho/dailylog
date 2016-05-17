@@ -106,5 +106,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 14 - Did: `maifest`
 - Day 15 - Did: `soccer` `sleep` `open source: my website` 
 - [Day 16](https://github.com/LFeh/dailylog/blob/master/log/05-16-2016.md) - Read: `front-end` `ux` / Did: `english class` `gym` `open source: my website`
+- [Day 17](https://github.com/LFeh/dailylog/blob/master/log/05-17-2016.md) - Read: `front-end` `ux` / Did: `car review` `studied english` `gym` 
 
 
