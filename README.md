@@ -108,6 +108,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 16](https://github.com/LFeh/dailylog/blob/master/log/05-16-2016.md) - Read: `front-end` `ux` / Did: `english class` `gym` `open source: my website`
 - [Day 17](https://github.com/LFeh/dailylog/blob/master/log/05-17-2016.md) - Read: `front-end` `ux` / Did: `car review` `studied english` `gym` `open source: my website`  
 - [Day 18](https://github.com/LFeh/dailylog/blob/master/log/05-18-2016.md) - Read: `icons` `beginner` `work / motivation` / Did: `english class` `gym`
-
+- [Day 19](https://github.com/LFeh/dailylog/blob/master/log/05-19-2016.md) - Read: `grid` `ease-in` `javascript` `ux` `work / motivation`  / Did: `studied english` `gym`
 
 
