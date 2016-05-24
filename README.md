@@ -113,4 +113,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 21 - Did: `khalifa bar` `open source: my website` 
 - Day 22 - Did: `soccer` `open source: my website` 
 - [Day 23](https://github.com/LFeh/dailylog/blob/master/log/05-23-2016.md) - Read: `head` `css` `ux` `work / motivation` / Did: `english class` `gym` `open source: my website` 
-
+- [Day 24](https://github.com/LFeh/dailylog/blob/master/log/05-24-2016.md) - Read: `github` `timeline` `ux` `work / motivation`  / Did: `#meetupcss`
