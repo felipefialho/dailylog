@@ -115,3 +115,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 23](https://github.com/LFeh/dailylog/blob/master/log/05-23-2016.md) - Read: `head` `css` `ux` `work / motivation` / Did: `english class` `gym` `open source: my website` 
 - [Day 24](https://github.com/LFeh/dailylog/blob/master/log/05-24-2016.md) - Read: `github` `timeline` `ux` `work / motivation`  / Did: `#meetupcss`
 - [Day 25](https://github.com/LFeh/dailylog/blob/master/log/05-25-2016.md) - Read: `head` `css` `ux` `work / motivation` / Did: `english class` `gym` 
+- Day 26 - Did: `holiday` `soccer` `bear` `barbecue` 
