@@ -119,4 +119,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 27 - Did: `holiday` `family` 
 - Day 28 - Did: `holiday` `bear with friends` `real madrid x atletico madrid`
 - Day 29 - Did: `holiday` `hangover` 
-- [Day 30](https://github.com/LFeh/dailylog/blob/master/log/05-30-2016.md) - Read: `css` `ux` `work / motivation` / Did: `english class` `gym` 
+- [Day 30](https://github.com/LFeh/dailylog/blob/master/log/05-30-2016.md) - Read: `css` `ux` `work / motivation` / Did: `write new article` `english class` `gym` 
+- [Day 31](https://github.com/LFeh/dailylog/blob/master/log/05-31-2016.md) - Read: `css` `ux` `work / motivation` / Did: `studied english` `gym` 
