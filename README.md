@@ -127,3 +127,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 01](https://github.com/LFeh/dailylog/blob/master/log/06-01-2016.md) - Read: `css` `ux` `work / motivation` / Did: `english class` `gym`
 - Day 02 - Did: `filtro reunion` 
 - [Day 03](https://github.com/LFeh/dailylog/blob/master/log/06-03-2016.md) - Read: `css` `ux` / Did: `gym`
+- Day 04 - Did: `bear` `barbecue` 
+- Day 05 - Did: `soccer` `sleep` 
