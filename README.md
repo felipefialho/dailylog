@@ -131,3 +131,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 05 - Did: `soccer` `sleep` 
 - [Day 06](https://github.com/LFeh/dailylog/blob/master/log/06-06-2016.md) - Read: `css` `ux` `work / motivation` / Did: `english class` `gym`
 - [Day 07](https://github.com/LFeh/dailylog/blob/master/log/06-07-2016.md) - Read: `sublime` `css` `ux` / Did: `studied english` `gym`
+- [Day 08](https://github.com/LFeh/dailylog/blob/master/log/06-08-2016.md) - Read: `ux` `work / motivation` / Did: `english class` `gym`
