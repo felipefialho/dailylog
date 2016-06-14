@@ -136,4 +136,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 10](https://github.com/LFeh/dailylog/blob/master/log/06-10-2016.md) - Read: `front-end` `ux` `work / motivation`  / Did: `studied english` `gym`
 - Day 11 - Did: `osaka japanese food`  
 - Day 12 - Did: `soccer` `sleep` 
-- [Day 13](https://github.com/LFeh/dailylog/blob/master/log/06-13-2016.md) - Read: `front-end` `ux` / Did: `english class` `gym`
+- [Day 13](https://github.com/LFeh/dailylog/blob/master/log/06-13-2016.md) - Read: `front-end` `ux` / Did: `english class` `new article`
+- [Day 14](https://github.com/LFeh/dailylog/blob/master/log/06-14-2016.md) - Read: `front-end` `work / motivation` / Did: `studied english` `gym` `new article`
+
+
