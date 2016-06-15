@@ -138,5 +138,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 12 - Did: `soccer` `sleep` 
 - [Day 13](https://github.com/LFeh/dailylog/blob/master/log/06-13-2016.md) - Read: `front-end` `ux` / Did: `english class` `new article`
 - [Day 14](https://github.com/LFeh/dailylog/blob/master/log/06-14-2016.md) - Read: `front-end` `work / motivation` / Did: `studied english` `gym` `new article`
+- [Day 15](https://github.com/LFeh/dailylog/blob/master/log/06-15-2016.md) - Read: `front-end` `ux` `work / motivation` / Did: `english class` `gym` 
 
 
