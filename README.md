@@ -143,5 +143,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 17](https://github.com/LFeh/dailylog/blob/master/log/06-17-2016.md) - Read: `sublime` `work / motivation` / Did: `studied english` `gym` 
 - Day 18 - Did: `longboard` `mineiro food` `sleep` 
 - Day 19 - Did: `soccer` `sleep` `outback` 
-- [Day 20](https://github.com/LFeh/dailylog/blob/master/log/06-20-2016.md) - Read: `front-end` `ux` / Did: `travel to americana` `studied english` `gym` 
- 
+- [Day 20](https://github.com/LFeh/dailylog/blob/master/log/06-20-2016.md) - Read: `front-end` `ux` / Did: `travel to americana` `gym`
+- [Day 21](https://github.com/LFeh/dailylog/blob/master/log/06-21-2016.md) - Read: `front-end` `work / motivation` / Did: `travel to americana` `studied english` `gym` 
