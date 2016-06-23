@@ -146,3 +146,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 20](https://github.com/LFeh/dailylog/blob/master/log/06-20-2016.md) - Read: `front-end` `ux` / Did: `travel to americana` `gym`
 - [Day 21](https://github.com/LFeh/dailylog/blob/master/log/06-21-2016.md) - Read: `front-end` `work / motivation` / Did: `travel to americana` `gym` 
 - [Day 22](https://github.com/LFeh/dailylog/blob/master/log/06-22-2016.md) - Read: `front-end` `ux` `work / motivation` / Did: `travel to americana` `soccer`
+- [Day 23](https://github.com/LFeh/dailylog/blob/master/log/06-23-2016.md) - Read: `front-end` `ux` `work / motivation` / Did: `travel to americana` `gym`
