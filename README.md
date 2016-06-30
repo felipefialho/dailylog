@@ -152,4 +152,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 26 - Did: `soccer` `sleep` 
 - [Day 27](https://github.com/LFeh/dailylog/blob/master/log/06-27-2016.md) - Read: `front-end` `ux` `work / motivation` / Did: `studied english` `gym` 
 - [Day 28](https://github.com/LFeh/dailylog/blob/master/log/06-28-2016.md) - Read: `front-end` `ux` `work / motivation` / Did: `studied english` `gym` 
-- [Day 29](https://github.com/LFeh/dailylog/blob/master/log/06-29-2016.md) - Read: `svg` `ux` / Did: `front-end week: frontux` `gym` 
+- [Day 29](https://github.com/LFeh/dailylog/blob/master/log/06-29-2016.md) - Read: `svg` `ux` / Did: `front-end week: #frontux` 
+- [Day 30](https://github.com/LFeh/dailylog/blob/master/log/06-30-2016.md) - Read: `frontend` `ux` / Did: `front-end week: #meetupcss` 
