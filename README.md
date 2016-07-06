@@ -159,7 +159,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 01 - Did: `front-end week: #codeinthedark` 
 - Day 02 - Did: `front-end week: #frontinsampa` 
 - Day 03 - Did: `soccer` `barbecue food: boizao grill` 
-- [Day 04](https://github.com/LFeh/dailylog/blob/master/log/07-04-2016.md) - Read: `front-end` `ux` / Did: `studied english` `gym` 
-- [Day 05](https://github.com/LFeh/dailylog/blob/master/log/07-05-2016.md) - Read: `front-end` `ux` / Did: `studied english`   
+- [Day 04](https://github.com/LFeh/dailylog/blob/master/log/07-04-2016.md) - Read: `front: screenshots` `front: array + es6` `front: parreto` `ux: protyping` `ux: persona google`  / Did: `studied english` `gym` 
+- [Day 05](https://github.com/LFeh/dailylog/blob/master/log/07-05-2016.md) - Read: `front: page transitions` `front: form and flexbox` `front: mozilla servo` `ux: airbnb case` `ux: new users` / Did: `studied english`   
 - [Day 06](https://github.com/LFeh/dailylog/blob/master/log/07-06-2016.md) - Read: `front: images` `front: rich cards` `ux: forms` `ux: carousels` `ux: conversational` `work: inbox zero` `work: excited tomorrow` / Did: `studied english` `gym`    
 
