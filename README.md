@@ -161,5 +161,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 03 - Did: `soccer` `barbecue food: boizao grill` 
 - [Day 04](https://github.com/LFeh/dailylog/blob/master/log/07-04-2016.md) - Read: `front-end` `ux` / Did: `studied english` `gym` 
 - [Day 05](https://github.com/LFeh/dailylog/blob/master/log/07-05-2016.md) - Read: `front-end` `ux` / Did: `studied english`   
-- [Day 06](https://github.com/LFeh/dailylog/blob/master/log/07-06-2016.md) - Read: `front-end` `ux` `work / motivation` / Did: `studied english` `gym`    
+- [Day 06](https://github.com/LFeh/dailylog/blob/master/log/07-06-2016.md) - Read: `front: images` `front: rich cards` `ux: forms` `ux: carousels` `ux: conversational` `work: inbox zero` `work: excited tomorrow` / Did: `studied english` `gym`    
 
