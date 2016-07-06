@@ -150,10 +150,10 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 24](https://github.com/LFeh/dailylog/blob/master/log/06-24-2016.md) - Read: `front-end` `ux` `work / motivation` / Did: `travel to americana` 
 - Day 25 - Did: `longboard` `outback` 
 - Day 26 - Did: `soccer` `sleep` 
-- [Day 27](https://github.com/LFeh/dailylog/blob/master/log/06-27-2016.md) - Read: `front-end` `ux` `work / motivation` / Did: `studied english` `gym` 
-- [Day 28](https://github.com/LFeh/dailylog/blob/master/log/06-28-2016.md) - Read: `front-end` `ux` `work / motivation` / Did: `studied english` `gym` 
-- [Day 29](https://github.com/LFeh/dailylog/blob/master/log/06-29-2016.md) - Read: `svg` `ux` / Did: `front-end week: #frontux` 
-- [Day 30](https://github.com/LFeh/dailylog/blob/master/log/06-30-2016.md) - Read: `frontend` `ux` / Did: `front-end week: #meetupcss` 
+- [Day 27](https://github.com/LFeh/dailylog/blob/master/log/06-27-2016.md) - Read: `front: third-party scripts` `front: instyle` `front: fixed header` `front: stylus + postcss` `ux: grid view` `work: never be successful` / Did: `studied english` `gym` 
+- [Day 28](https://github.com/LFeh/dailylog/blob/master/log/06-28-2016.md) - Read: `front: finding time` `ux: hot in this week` `work: 5 hour rule` / Did: `studied english` `gym` 
+- [Day 29](https://github.com/LFeh/dailylog/blob/master/log/06-29-2016.md) - Read: `front: svg` `ux: best links` / Did: `front-end week: #frontux` 
+- [Day 30](https://github.com/LFeh/dailylog/blob/master/log/06-30-2016.md) - Read: `front: autofill` `front: refactor` `ux: future about adobe` `ux: notes to a young` / Did: `front-end week: #meetupcss` 
 ### Jul
 
 - Day 01 - Did: `front-end week: #codeinthedark` 
