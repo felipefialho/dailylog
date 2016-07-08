@@ -163,6 +163,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 05](https://github.com/LFeh/dailylog/blob/master/log/07-05-2016.md) - Read: `front: page transitions` `front: form and flexbox` `front: mozilla servo` `ux: airbnb case` `ux: new users` / Did: `studied english`   
 - [Day 06](https://github.com/LFeh/dailylog/blob/master/log/07-06-2016.md) - Read: `front: images` `front: rich cards` `ux: forms` `ux: carousels` `ux: conversational` `work: inbox zero` `work: excited tomorrow` / Did: `studied english` `gym`    
 - [Day 07](https://github.com/LFeh/dailylog/blob/master/log/07-07-2016.md) - Read: `front: indentation js` `ux: week` / Did: `beer with friends`   
-- [Day 08](https://github.com/LFeh/dailylog/blob/master/log/07-08-2016.md) - Read: `front: is aware` `ux: ethnography` / Did: `gym` `sick`  
+- [Day 08](https://github.com/LFeh/dailylog/blob/master/log/07-08-2016.md) - Read: `front: is aware` `ux: ethnography` / Did: `studied english` `gym` `sick`  
 
 
