@@ -168,4 +168,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 10 - Did: `soccer` `portugal x france`
 - [Day 11](https://github.com/LFeh/dailylog/blob/master/log/07-11-2016.md) - Read: `front: sass + atomic` `front: eslint` `front: git hooks` `ux: mistakes` `ux: functional animation` `work: good enough` / Did: `studied english` `gym`  
 - [Day 12](https://github.com/LFeh/dailylog/blob/master/log/07-12-2016.md) - Read: `front: webpack` `ux: medium mood` `work: pokemon go` / Did: `studied english` `gym`  
-- [Day 13](https://github.com/LFeh/dailylog/blob/master/log/07-13-2016.md) - Read: `front: webgl` `work: hack your romantic relationship` / Did: `studied english` `gym` 
+- [Day 13](https://github.com/LFeh/dailylog/blob/master/log/07-13-2016.md) - Read: `front: webgl` `work: hack your romantic relationship` / Did: `gym` 
+- [Day 14](https://github.com/LFeh/dailylog/blob/master/log/07-14-2016.md) - Read: `front: atomic 2` `front: speak improve` `front: linked data` `front: hooks` `front: amp` `work: pokemon go` / Did: `studied english` `gym`
+
