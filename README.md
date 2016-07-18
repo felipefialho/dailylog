@@ -173,3 +173,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 15](https://github.com/LFeh/dailylog/blob/master/log/07-15-2016.md) - Read: `front: animation` `ux: designers mistake` `ux: redesign` `ux: forms` `work: learn without school` `work: like culture` `work: time against us` / Did: `studied english` `new cat` 
 - Day 16 - Did: `trip: bragança paulista` `food: feijuca`
 - Day 17 - Did: `soccer` `new cat`
+- [Day 18](https://github.com/LFeh/dailylog/blob/master/log/07-18-2016.md) - Read: `front: anonymous function` `ux: ux mistake` `ux: users into fans` `ux: playing with emotion` / Did: `studied english` `gym` 
+
