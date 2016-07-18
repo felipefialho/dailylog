@@ -170,4 +170,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 12](https://github.com/LFeh/dailylog/blob/master/log/07-12-2016.md) - Read: `front: webpack` `ux: medium mood` `work: pokemon go` / Did: `studied english` `gym`  
 - [Day 13](https://github.com/LFeh/dailylog/blob/master/log/07-13-2016.md) - Read: `front: webgl` `work: hack your romantic relationship` / Did: `gym` 
 - [Day 14](https://github.com/LFeh/dailylog/blob/master/log/07-14-2016.md) - Read: `front: atomic 2` `front: speak improve` `front: linked data` `front: hooks` `front: amp` `work: pokemon go` / Did: `studied english` `gym`
-- [Day 15](https://github.com/LFeh/dailylog/blob/master/log/07-15-2016.md) - Read: `front: animation` `ux: designers mistake` `ux: redesign` `ux: forms` `work: learn without school` `work: like culture` `work: time against us` / Did: `studied english` `gym`
+- [Day 15](https://github.com/LFeh/dailylog/blob/master/log/07-15-2016.md) - Read: `front: animation` `ux: designers mistake` `ux: redesign` `ux: forms` `work: learn without school` `work: like culture` `work: time against us` / Did: `studied english` `new cat` 
+- Day 16 - Did: `trip: bragança paulista` `food: feijuca`
+- Day 17 - Did: `soccer` `new cat`
