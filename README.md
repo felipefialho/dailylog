@@ -174,4 +174,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 16 - Did: `trip: bragança paulista` `food: feijuca`
 - Day 17 - Did: `soccer` `new cat`
 - [Day 18](https://github.com/LFeh/dailylog/blob/master/log/07-18-2016.md) - Read: `front: anonymous function` `ux: ux mistake` `ux: users into fans` `ux: playing with emotion` / Did: `studied english` `gym` 
-
+- [Day 19](https://github.com/LFeh/dailylog/blob/master/log/07-19-2016.md) - Read: `front: styling a modal` `front: es6.rock` `ux: colors` `ux: future` `ux: build a workshop` / Did: `studied english` `gym` 
