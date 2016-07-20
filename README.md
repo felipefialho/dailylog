@@ -175,3 +175,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 17 - Did: `soccer` `new cat`
 - [Day 18](https://github.com/LFeh/dailylog/blob/master/log/07-18-2016.md) - Read: `front: anonymous function` `ux: ux mistake` `ux: users into fans` `ux: playing with emotion` / Did: `studied english` `gym` 
 - [Day 19](https://github.com/LFeh/dailylog/blob/master/log/07-19-2016.md) - Read: `front: styling a modal` `front: es6.rock` `ux: colors` `ux: future` `ux: build a workshop` / Did: `studied english` `gym` 
+- [Day 20](https://github.com/LFeh/dailylog/blob/master/log/07-20-2016.md) - Read: `front: ecma6 args` `front: border collapse` `ux: complicating the uncomplicated` `general: evolution and footlong sub` / Did: `studied english` `gym` 
+
