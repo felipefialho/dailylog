@@ -180,4 +180,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 22 - Did: `busy` `meetup burguer`
 - Day 23 - Did: `niwa: japanese food`
 - Day 24 - Did: `soccer` `sleep`
+- [Day 25](https://github.com/LFeh/dailylog/blob/master/log/07-25-2016.md) - Read: `front: mobile performance` `ux: truth about ux` `ux: disk and save` / Did: `studied english` `gym` 
 
