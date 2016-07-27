@@ -181,6 +181,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 23 - Did: `niwa: japanese food`
 - Day 24 - Did: `soccer` `sleep`
 - [Day 25](https://github.com/LFeh/dailylog/blob/master/log/07-25-2016.md) - Read: `front: mobile performance` `ux: truth about ux` `ux: disk and save` / Did: `studied english` `gym` 
-- [Day 26](https://github.com/LFeh/dailylog/blob/master/log/07-26-2016.md) - Read: `front: width x max-width` `ux: buttons` `ux: creativity` `ux: idea for uber` `ux: placeholders are problematic` `ux: use label` `general: pokemon go` Did: `busy: process` `gym` `buy: guns n roses`  
+- [Day 26](https://github.com/LFeh/dailylog/blob/master/log/07-26-2016.md) - Read: `front: width x max-width` `ux: buttons` `ux: creativity` `ux: idea for uber` `ux: placeholders are problematic` `ux: use label` `general: pokemon go` Did: `busy: process` `buy: guns n roses`  
 
 
