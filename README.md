@@ -154,6 +154,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 28](https://github.com/LFeh/dailylog/blob/master/log/06-28-2016.md) - Read: `front: finding time` `ux: hot in this week` `work: 5 hour rule` / Did: `studied english` `gym` 
 - [Day 29](https://github.com/LFeh/dailylog/blob/master/log/06-29-2016.md) - Read: `front: svg` `ux: best links` / Did: `front-end week: #frontux` 
 - [Day 30](https://github.com/LFeh/dailylog/blob/master/log/06-30-2016.md) - Read: `front: autofill` `front: refactor` `ux: future about adobe` `ux: notes to a young` / Did: `front-end week: #meetupcss` 
+
 ### Jul
 
 - Day 01 - Did: `front-end week: #codeinthedark` 
@@ -185,6 +186,11 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 27 - Did: `very very busy =/` `gym` `studied english`
 - [Day 28](https://github.com/LFeh/dailylog/blob/master/log/07-28-2016.md) - Read: `front: svg animations` `ux: netflix a/b testing` `ux: young designers` `ux: alignment, direction, and focus` Did: `gym` `studied english`
 - [Day 29](https://github.com/LFeh/dailylog/blob/master/log/07-29-2016.md) - Read: `front: full width container` `front: fieldset and legend` `ux: 7 rules` Did: `gym` `studied english`
+- Day 30 - Did: `party: beer`
+- Day 31 - Did: `soccer` `sleep`
 
+### Ago
+
+- Day 01 - Did: `trip: americana` `busy busy busy`
 
 
