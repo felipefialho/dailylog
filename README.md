@@ -193,4 +193,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 
 - Day 01 - Did: `trip: americana` `busy busy busy` `gym`
 - [Day 02](https://github.com/LFeh/dailylog/blob/master/log/08-02-2016.md) - Read: `front: static generator at scale` `front: css writing mode` `ux: 10 forms rules` `work: passionate` `work: principles of life` Did: `trip: americana` `gym` `studied english`
-- [Day 03](https://github.com/LFeh/dailylog/blob/master/log/08-03-2016.md) - Read: `front: state of css` `ux: the best publications` `ux: user memory design` Did: `trip: americana` `gym` `studied english`
+- [Day 03](https://github.com/LFeh/dailylog/blob/master/log/08-03-2016.md) - Read: `front: state of css` `ux: the best publications` `ux: user memory design` Did: `trip: americana` `gym` 
+- [Day 04](https://github.com/LFeh/dailylog/blob/master/log/08-04-2016.md) - Read: `front: svg + react` `front: inline sharing menu` Did: `trip: americana` `gym` `barbecue + beer`
