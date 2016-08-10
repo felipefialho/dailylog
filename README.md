@@ -200,4 +200,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 07 - Did:  `soccer` `sleep`
 - [Day 08](https://github.com/LFeh/dailylog/blob/master/log/08-08-2016.md) - Read: `ux: text field` `ux: mobile site` `ux: ux and puzzle` `design: size, contrast, and balance` Did: `english class` `gym`
 - [Day 09](https://github.com/LFeh/dailylog/blob/master/log/08-09-2016.md) - Read: `front: image upload + react` `front: accessibility + forms` Did: `studied english` `gym`
+- [Day 10](https://github.com/LFeh/dailylog/blob/master/log/08-10-2016.md) - Read: `front: practical` `front: chaining javascript methods` `ux: registration` `ux: nubank + miles` Did: `english class` `gym`
 
