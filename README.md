@@ -202,4 +202,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 09](https://github.com/LFeh/dailylog/blob/master/log/08-09-2016.md) - Read: `front: image upload + react` `front: accessibility + forms` Did: `studied english` `gym`
 - [Day 10](https://github.com/LFeh/dailylog/blob/master/log/08-10-2016.md) - Read: `front: practical` `front: chaining javascript methods` `ux: registration` `ux: nubank + miles` Did: `english class` `gym`
 - Day 11 - Did:  `very busy =/` `gym`
+- [Day 12](https://github.com/LFeh/dailylog/blob/master/log/08-12-2016.md) - Read: `front: good code x documentation` `front: data url` `ux: memory + ux` Did: `gym` `party with friends`
 
