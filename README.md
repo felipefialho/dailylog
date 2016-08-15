@@ -203,4 +203,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 10](https://github.com/LFeh/dailylog/blob/master/log/08-10-2016.md) - Read: `front: practical` `front: chaining javascript methods` `ux: registration` `ux: nubank + miles` Did: `english class` `gym`
 - Day 11 - Did:  `very busy =/` `gym`
 - [Day 12](https://github.com/LFeh/dailylog/blob/master/log/08-12-2016.md) - Read: `front: good code x documentation` `front: data url` `ux: memory + ux` Did: `gym` `party with friends`
+- Day 13 - Did:  `hangover` `sleep` `niwa: japanese food`
+- Day 14 - Did:  `longboard` `pokemon go`
+- [Day 15](https://github.com/LFeh/dailylog/blob/master/log/08-15-2016.md) - Read: `front: progressive web apps` `ux: user-friendly carousel` `ux: chatbot` `work: life` Did: `gym` `english class`
 
