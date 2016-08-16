@@ -206,4 +206,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 13 - Did:  `hangover` `sleep` `niwa: japanese food`
 - Day 14 - Did:  `longboard` `pokemon go`
 - [Day 15](https://github.com/LFeh/dailylog/blob/master/log/08-15-2016.md) - Read: `front: progressive web apps` `ux: user-friendly carousel` `ux: chatbot` `work: life` Did: `gym` `english class`
+- [Day 16](https://github.com/LFeh/dailylog/blob/master/log/08-16-2016.md) - Read: `front: element queries` `front: husky` `front: s(gh)pa` `work: individualism` `general: pokemon go` Did: `gym` `studied english`
 
