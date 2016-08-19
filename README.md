@@ -208,6 +208,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 15](https://github.com/LFeh/dailylog/blob/master/log/08-15-2016.md) - Read: `front: progressive web apps` `ux: user-friendly carousel` `ux: chatbot` `work: life` Did: `gym` `english class`
 - [Day 16](https://github.com/LFeh/dailylog/blob/master/log/08-16-2016.md) - Read: `front: element queries` `front: husky` `front: s(gh)pa` `work: individualism` `general: pokemon go` Did: `gym` `studied english`
 - Day 17 - Did: `very busy =/` `gym` `english class`
-- [Day 18](https://github.com/LFeh/dailylog/blob/master/log/08-18-2016.md) - Read: `front: svg examples` `ux: wtf ux` Did: `party with friends`
-
-
+- [Day 18](https://github.com/LFeh/dailylog/blob/master/log/08-18-2016.md) - Read: `front: svg examples` `ux: wtf ux` Did: `gym` `studied english`
+- [Day 19](https://github.com/LFeh/dailylog/blob/master/log/08-19-2016.md) - Read: `front: typography` `ux: started with ux` Did: `bar with rock n roll`
