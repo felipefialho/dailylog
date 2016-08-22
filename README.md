@@ -212,3 +212,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 19](https://github.com/LFeh/dailylog/blob/master/log/08-19-2016.md) - Read: `front: typography` `ux: started with ux` Did: `bar with rock n roll`
 - Day 20 - Did:  `party with friends`
 - Day 21 - Did:  `hangover` `sleep`
+- [Day 22](https://github.com/LFeh/dailylog/blob/master/log/08-22-2016.md) - Read: `front: hexo` `front: react, angular vuejs` `ux: breadcrumbs` `ux: service design`  Did: `gym` `english class`
+
