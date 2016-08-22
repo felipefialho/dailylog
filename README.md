@@ -210,3 +210,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 17 - Did: `very busy =/` `gym` `english class`
 - [Day 18](https://github.com/LFeh/dailylog/blob/master/log/08-18-2016.md) - Read: `front: svg examples` `ux: wtf ux` Did: `gym` `studied english`
 - [Day 19](https://github.com/LFeh/dailylog/blob/master/log/08-19-2016.md) - Read: `front: typography` `ux: started with ux` Did: `bar with rock n roll`
+- Day 20 - Did:  `party with friends`
+- Day 21 - Did:  `hangover` `sleep`
