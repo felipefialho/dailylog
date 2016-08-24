@@ -213,5 +213,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 20 - Did:  `party with friends`
 - Day 21 - Did:  `hangover` `sleep`
 - [Day 22](https://github.com/LFeh/dailylog/blob/master/log/08-22-2016.md) - Read: `front: hexo` `front: react, angular vuejs` `ux: breadcrumbs` `ux: service design`  Did: `gym` `english class`
-- [Day 23](https://github.com/LFeh/dailylog/blob/master/log/08-23-2016.md) - Read: `ux: product management` `work: tips remotely` `work: technology and future`  Did: `gym` 
+- [Day 23](https://github.com/LFeh/dailylog/blob/master/log/08-23-2016.md) - Read: `ux: product management` `work: tips remotely` `work: technology and future`  Did: `studied english`
+- [Day 24](https://github.com/LFeh/dailylog/blob/master/log/08-24-2016.md) - Read: `front: postcss` `ux: 6 skills` `ux: internet of things` `work: einsten and you` `work: i can't drop everything`  Did: `gym` `english class`
 
