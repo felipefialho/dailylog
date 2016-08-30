@@ -220,3 +220,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 27 - Did: `trip: campos do jordao`
 - Day 28 - Did: `trip: campos do jordao`
 - Day 29 - Did: `after trip: campos do jordao` `gym` `english class`
+- [Day 30](https://github.com/LFeh/dailylog/blob/master/log/08-30-2016.md) - Read: `front: css positioning` `front: donut chart + css` `front: extensible components` `ux: user outdated` `ux: reality show` Did: `gym` `studied english`
+
