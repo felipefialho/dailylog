@@ -223,3 +223,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 30](https://github.com/LFeh/dailylog/blob/master/log/08-30-2016.md) - Read: `front: css positioning` `front: donut chart + css` `front: extensible components` `ux: user outdated` `ux: reality show` Did: `soccer` `barbecue`
 - [Day 31](https://github.com/LFeh/dailylog/blob/master/log/08-31-2016.md) - Read: 
 `front: about performance` `front: element queries` `ux: mobile app` `ux: hamburguer menu` `ux: grids` `finances: passive barriers` Did: `gym` `english class`
+
+### Sep
+
+- [Day 01](https://github.com/LFeh/dailylog/blob/master/log/09-01-2016.md) - Read: `front: refactoring css` `front: display order` `ux: don norman + ux` / Did: `english class` `gym` 
