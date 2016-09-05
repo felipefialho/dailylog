@@ -230,3 +230,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 02 - Did: `buzy buzy buzy`
 - Day 03 - Did: `sleep` `niwa: japanese food`
 - Day 04 - Did: `soccer` `stranger things`
+- [Day 05](https://github.com/LFeh/dailylog/blob/master/log/09-05-2016.md) - Read: `front: progressive web apps` `front: front-end update` `ux: remote controller` Did: `gym` `english class`
