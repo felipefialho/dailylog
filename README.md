@@ -228,3 +228,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 
 - [Day 01](https://github.com/LFeh/dailylog/blob/master/log/09-01-2016.md) - Read: `front: refactoring css` `front: display order` `ux: don norman + ux` / Did: `english class` `gym` 
 - Day 02 - Did: `buzy buzy buzy`
+- Day 03 - Did: `sleep` `niwa: japanese food`
+- Day 04 - Did: `soccer` `stranger things`
