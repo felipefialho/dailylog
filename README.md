@@ -233,3 +233,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 05](https://github.com/LFeh/dailylog/blob/master/log/09-05-2016.md) - Read: `front: progressive web apps` `front: front-end update` `ux: remote controller` Did: `gym` `english class`
 - [Day 06](https://github.com/LFeh/dailylog/blob/master/log/09-06-2016.md) - Read: `front: isometric layout` `front: types convert in javascript` `ux: inaccessible web` `ux: why prototypes fail` Did: `gym`
 - Day 07 - Did: `holiday` `gym`
+- [Day 08](https://github.com/LFeh/dailylog/blob/master/log/09-08-2016.md) - Read: `front: multiple backgrounds` `ux: best of medium` `ux: great design` `ux: trailer created by AI` Did: `gym` 
