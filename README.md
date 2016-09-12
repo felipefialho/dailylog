@@ -235,3 +235,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 07 - Did: `holiday` `gym`
 - [Day 08](https://github.com/LFeh/dailylog/blob/master/log/09-08-2016.md) - Read: `front: multiple backgrounds` `ux: best of medium` `ux: great design` `ux: trailer created by AI` Did: `gym` 
 - [Day 09](https://github.com/LFeh/dailylog/blob/master/log/09-09-2016.md) - Read: `ux: cognitive overload` `ux: design as martial art` Did: `gym` 
+- Day 10 - Did: `barbecue + beer`
+- Day 11 - Did: `soccer` `vapiano italian food`
+- Day 12 - Did: `sick =//` 
