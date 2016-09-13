@@ -238,3 +238,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 10 - Did: `barbecue + beer`
 - Day 11 - Did: `soccer` `vapiano italian food`
 - Day 12 - Did: `sick =//` 
+- [Day 13](https://github.com/LFeh/dailylog/blob/master/log/09-13-2016.md) - Read: `front: about <img>` `front: svg letter animation` `ux: defining own ethnicity` `ux: great design` Did: `gym` 
