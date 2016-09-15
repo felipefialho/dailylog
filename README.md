@@ -240,3 +240,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 12 - Did: `sick =//` 
 - [Day 13](https://github.com/LFeh/dailylog/blob/master/log/09-13-2016.md) - Read: `front: about <img>` `front: svg letter animation` `ux: defining own ethnicity` `ux: great design` Did: `gym` `new article`
 - [Day 14](https://github.com/LFeh/dailylog/blob/master/log/09-14-2016.md) - Read: `front: color on the web` `front: resizeable components + relative units` Did: `gym` `english class` `new article`
+- [Day 15](https://github.com/LFeh/dailylog/blob/master/log/09-15-2016.md) - Read: `ux: innovation is not enough` `ux: mobile first yet` Did: `beer with frontendbr :)`
+
