@@ -242,4 +242,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 14](https://github.com/LFeh/dailylog/blob/master/log/09-14-2016.md) - Read: `front: color on the web` `front: resizeable components + relative units` Did: `gym` `english class` `new article`
 - [Day 15](https://github.com/LFeh/dailylog/blob/master/log/09-15-2016.md) - Read: `ux: innovation is not enough` `ux: mobile first yet` Did: `beer with frontendbr :)`
 - [Day 16](https://github.com/LFeh/dailylog/blob/master/log/09-16-2016.md) - Read: `front: i love my code` `front: conversational development` `ux: mobile form` Did: `gym` `studied english`
+- Day 17 - Did: `barbecue + beer`
+- Day 18 - Did: `soccer` `niwa japonese food`
 
