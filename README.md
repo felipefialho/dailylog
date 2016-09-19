@@ -244,4 +244,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 16](https://github.com/LFeh/dailylog/blob/master/log/09-16-2016.md) - Read: `front: i love my code` `front: conversational development` `ux: mobile form` Did: `gym` `studied english`
 - Day 17 - Did: `barbecue + beer`
 - Day 18 - Did: `soccer` `niwa japonese food`
-
+- [Day 19](https://github.com/LFeh/dailylog/blob/master/log/09-19-2016.md) - Read: `front: flexible fonts` `ux: thumb zone` Did: `gym` `english class` 
