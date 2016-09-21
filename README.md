@@ -245,5 +245,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 17 - Did: `barbecue + beer`
 - Day 18 - Did: `soccer` `niwa japonese food`
 - [Day 19](https://github.com/LFeh/dailylog/blob/master/log/09-19-2016.md) - Read: `front: flexible fonts` `ux: thumb zone` Did: `gym` `english class` 
-- [Day 20](https://github.com/LFeh/dailylog/blob/master/log/09-20-2016.md) - Read: `design: things that will help you become a better designer` Did: `gym` `studied english`
+- [Day 20](https://github.com/LFeh/dailylog/blob/master/log/09-20-2016.md) - Read: `design: things that will help you become a better designer` Did: `gym` `new article`
 
