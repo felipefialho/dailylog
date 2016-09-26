@@ -251,4 +251,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 23 - Did: `buzy, very buzy` `gym` `beer with friends`
 - Day 24 - Did: `hangover` `hangover` `hangover`
 - Day 25 - Did: `soccer` `mexicanissimo mexican food`
-
+- [Day 26](https://github.com/LFeh/dailylog/blob/master/log/09-22-2016.md) - Read: `ux: icons + app` `ux: new snapchat` Did:  `gym` `english class`
