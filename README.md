@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://simpleicon.com/wp-content/uploads/Calendar-Time.png" alt="Daily Icon" width="150" />
+  <img src="https://cloud.githubusercontent.com/assets/3603793/18837293/9f2732da-83d9-11e6-8a7d-a421115f6b84.png" alt="Daily Icon" width="150" />
 </p>
 
 
