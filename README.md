@@ -248,4 +248,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 20](https://github.com/LFeh/dailylog/blob/master/log/09-20-2016.md) - Read: `design: things that will help you become a better designer` Did: `gym` `new article`
 - Day 21 - Did: `buzy` `new article` `gym` `english class`
 - [Day 22](https://github.com/LFeh/dailylog/blob/master/log/09-22-2016.md) - Read: `frontend: css grid layout` `front: acessible svg` Did: `meetupcss`
-- Day 23 - Did: `buzy, very buzy` `gym` 
+- Day 23 - Did: `buzy, very buzy` `gym` `beer with friends`
+- Day 24 - Did: `hangover` `hangover` `hangover`
+- Day 25 - Did: `soccer` `mexicanissimo mexican food`
+
