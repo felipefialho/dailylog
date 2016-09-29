@@ -253,4 +253,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 25 - Did: `soccer` `mexicanissimo mexican food`
 - [Day 26](https://github.com/LFeh/dailylog/blob/master/log/09-26-2016.md) - Read: `ux: icons + app` `ux: new snapchat` Did:  `gym` `english class`
 - [Day 27](https://github.com/LFeh/dailylog/blob/master/log/09-27-2016.md) - Read: `frontend: progressive enhancement` `frontend: virtual reality` `frontend: svg fonts` `frontend: spaces in typography` Did:  `gym` 
+- Day 28 - Did: `I didn't read today` `gym` `english class` `corinthians x cruzeiro` `javascript course`
 
