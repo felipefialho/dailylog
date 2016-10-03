@@ -256,4 +256,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 28 - Did: `I didn't read today` `gym` `english class` `corinthians x cruzeiro` `javascript course`
 - [Day 29](https://github.com/LFeh/dailylog/blob/master/log/09-29-2016.md) - Read: `frontend: grid layout` `frontend: css masks` `frontend: image breakpoints generator` Did: `gym` `javascript course` 
 - [Day 30](https://github.com/LFeh/dailylog/blob/master/log/09-30-2016.md) - Read: `ux: animation + ux` Did: `gym` `javascript course` 
-
+- Day 01 - Did: `javascript course`  `barbecue + beer`
+- Day 02 - Did: `soccer` `niwa japonese food`
