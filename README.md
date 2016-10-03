@@ -261,3 +261,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
  
 - Day 01 - Did: `javascript course`  `barbecue + beer`
 - Day 02 - Did: `soccer` `niwa japonese food`
+- [Day 03](https://github.com/LFeh/dailylog/blob/master/log/10-03-2016.md) - Read: `ux: design today` `frontend: css grid layout` Did: `gym` `english class` `javascript course`
