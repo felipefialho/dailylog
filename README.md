@@ -265,3 +265,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 04](https://github.com/LFeh/dailylog/blob/master/log/10-04-2016.md) - Read: `frontend: javascript + overdose` `frontend: text-spinners` `frontend: basic web design` Did: `gym` `javascript course`
 - [Day 05](https://github.com/LFeh/dailylog/blob/master/log/10-05-2016.md) - Read: `frontend: react` `ux: obvious, easy and possible` Did: `gym` `english class`
 - Day 06 - Read: `no articles today` Did: `gym` `javascript course`
+- Day 07 - Read: `very buzy!` Did: `workshop at trendi` `gym` `javascript course`
