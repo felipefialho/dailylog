@@ -268,3 +268,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 07 - Read: `very buzy!` Did: `workshop at trendi` `gym` `javascript course`
 - Day 08 - Did: `longboard` `niwa japonese food` `beer with friends`
 - Day 09 - Did: `soccer` `beer with friends` `mexicanissimo mexican food`
+- [Day 10](https://github.com/LFeh/dailylog/blob/master/log/10-05-2016.md) - Read: `frontend: css filters` `ux: gestures` `ux: bad features` Did: `gym` `english class` `javascript course`
