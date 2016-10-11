@@ -269,3 +269,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 08 - Did: `longboard` `niwa japonese food` `beer with friends`
 - Day 09 - Did: `soccer` `beer with friends` `mexicanissimo mexican food`
 - [Day 10](https://github.com/LFeh/dailylog/blob/master/log/10-05-2016.md) - Read: `frontend: css filters` `ux: gestures` `ux: bad features` Did: `gym` `english class` `javascript course`
+- [Day 11](https://github.com/LFeh/dailylog/blob/master/log/10-11-2016.md) - Read: `frontend: code patterns` `frontend: javascript in 2016` `ux: card user interfaces` `ux: slack organization` Did: `gym` `javascript course`
+
