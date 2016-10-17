@@ -272,3 +272,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 11](https://github.com/LFeh/dailylog/blob/master/log/10-11-2016.md) - Read: `frontend: code patterns` `frontend: javascript in 2016` `ux: card user interfaces` `ux: slack organization` Did: `gym` `javascript course`
 - Day 12 - Read: `no articles today`
 - Day 13 - Read: `no articles today` Did: `trip do blumenal`
+- Day 14 - Did: `trip do blumenal` `oktuberfest`
+- Day 15 - Did: `trip do blumenal` `oktuberfest`
+- Day 16 - Did: `trip do floripa`
+- Day 17 - Read: `no articles today` Did: `trip do floripa`
