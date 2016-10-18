@@ -276,3 +276,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 15 - Did: `trip do blumenal` `oktuberfest`
 - Day 16 - Did: `trip do floripa`
 - Day 17 - Read: `no articles today` Did: `trip do floripa`
+- Day 18 - Read: `no articles today` Did: `trip do floripa`
