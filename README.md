@@ -278,3 +278,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 17 - Read: `no articles today` Did: `trip do floripa`
 - Day 18 - Read: `no articles today` Did: `trip do floripa`
 - Day 19 - Read: `no articles today` Did: `trip do floripa`
+- Day 20 - Read: `no articles today` Did: `trip do floripa`
+- Day 21 - Read: `no articles today` Did: `trip do floripa`
