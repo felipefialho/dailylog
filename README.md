@@ -280,3 +280,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 19 - Read: `no articles today` Did: `trip do floripa`
 - Day 20 - Read: `no articles today` Did: `trip do floripa`
 - Day 21 - Read: `no articles today` Did: `trip do floripa`
+- Day 22 - Did: `trip do floripa` `niwa japonese food`
+- Day 23 - Did: `soccer` `beer with friends`
