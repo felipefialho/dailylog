@@ -285,5 +285,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 24](https://github.com/LFeh/dailylog/blob/master/log/10-24-2016.md) - Read: `frontend: normalize no more` `frontend: multiple background images` `ux: icons` `ux: hold music purgatory` `ux: new features like a son` Did: `gym` `english class` 
 - [Day 25](https://github.com/LFeh/dailylog/blob/master/log/10-25-2016.md) - Read: `frontend: flexbox` `frontend: react + redux` `ux: design rules` Did: `meetup css`
 - [Day 26](https://github.com/LFeh/dailylog/blob/master/log/10-26-2016.md) - Read: `design: about development` Did: `gym` `english class` 
-
+- [Day 27](https://github.com/LFeh/dailylog/blob/master/log/10-27-2016.md) - Read: `frontend: responsive images + css` `frontend: responsive images + client hints` `frontend: css variables x preprocessor variables` Did: `gym` `javascript course`
 
