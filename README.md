@@ -287,3 +287,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 26](https://github.com/LFeh/dailylog/blob/master/log/10-26-2016.md) - Read: `design: about development` Did: `gym` `english class` 
 - [Day 27](https://github.com/LFeh/dailylog/blob/master/log/10-27-2016.md) - Read: `frontend: responsive images + css` `frontend: responsive images + client hints` `frontend: css variables x preprocessor variables` Did: `gym` `survey 2016`
 - Day 28 - Read: `no articles today` Did: `gym` `javascript course`
+- Day 29 - Did: `bear bear bear bear bear` `marriage` `samba` `bear bear bear bear bear`
+- Day 30 - Did: `bear` `samba`
