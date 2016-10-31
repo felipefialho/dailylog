@@ -289,3 +289,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 28 - Read: `no articles today` Did: `gym` `javascript course`
 - Day 29 - Did: `bear bear bear bear bear` `marriage` `samba` `bear bear bear bear bear`
 - Day 30 - Did: `bear` `samba`
+- [Day 31](https://github.com/LFeh/dailylog/blob/master/log/10-31-2016.md) - Read: ``frontend: css shapes` `frontend: carousels` `ux: ux week` `ux: reducing visual noise`` Did: `english class` `gym` `javascript course` 
