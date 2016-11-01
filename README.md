@@ -290,3 +290,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 29 - Did: `bear bear bear bear bear` `marriage` `samba` `bear bear bear bear bear`
 - Day 30 - Did: `bear` `samba`
 - [Day 31](https://github.com/LFeh/dailylog/blob/master/log/10-31-2016.md) - Read: ``frontend: css shapes` `frontend: carousels` `ux: ux week` `ux: reducing visual noise`` Did: `english class` `gym` `javascript course` 
+
+### Nov
+
+- [Day 01](https://github.com/LFeh/dailylog/blob/master/log/11-01-2016.md) - Read: `frontend: atomic design` `frontend: css 8 simple rules` `frontend: hello world in react` `ux: fuck you facebook` / Did: `javascript course`  `gym`
+
