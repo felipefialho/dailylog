@@ -295,4 +295,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 
 - [Day 01](https://github.com/LFeh/dailylog/blob/master/log/11-01-2016.md) - Read: `frontend: atomic design` `frontend: css 8 simple rules` `frontend: hello world in react` `ux: fuck you facebook` / Did: `javascript course`  `gym`
 - Day 02 - Did: `flying sushi: japanese food`
+- [Day 03](https://github.com/LFeh/dailylog/blob/master/log/11-03-2016.md) - Read: `frontend: css grid` / Did: `javascript course`  `gym`
+
 
