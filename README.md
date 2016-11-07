@@ -289,7 +289,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 28 - Read: `no articles today` Did: `gym` `javascript course`
 - Day 29 - Did: `bear bear bear bear bear` `marriage` `samba` `bear bear bear bear bear`
 - Day 30 - Did: `bear` `samba`
-- [Day 31](log/10-31-2016.md) - Read: ``frontend: css shapes` `frontend: carousels` `ux: ux week` `ux: reducing visual noise`` Did: `english class` `gym` `javascript course` 
+- [Day 31](log/10-31-2016.md) - Read: ``frontend: css shapes` `frontend: carousels` `ux: ux week` `ux: reducing visual noise` Did: `english class` `gym` `javascript course` 
 
 ### Nov
 
@@ -299,5 +299,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 04](log/11-04-2016.md) - Read: `frontend: multiple bg` `frontend: yarn` `frontend: robust css` `tech: apple and new mac book` / Did: `javascript course` `gym`
 - Day 05 - Did: `bachelor party + bear bear bear bear`
 - Day 06 - Did: `soccer` `niwa: japanese food`
+- [Day 07](log/11-07-2016.md) - Read: `frontend: web fonts loader` `ux: confirmation` `ux: empathy` / Did: `english class` `gym` `javascript course` 
 
 
