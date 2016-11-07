@@ -297,5 +297,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 02 - Did: `flying sushi: japanese food`
 - [Day 03](log/11-03-2016.md) - Read: `frontend: css grid` / Did: `javascript course` `gym`
 - [Day 04](log/11-04-2016.md) - Read: `frontend: multiple bg` `frontend: yarn` `frontend: robust css` `tech: apple and new mac book` / Did: `javascript course` `gym`
+- Day 05 - Did: `bachelor party + bear bear bear bear`
+- Day 06 - Did: `soccer` `niwa: japanese food`
 
 
