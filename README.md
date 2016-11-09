@@ -300,5 +300,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 05 - Did: `bachelor party + bear bear bear bear`
 - Day 06 - Did: `soccer` `niwa: japanese food`
 - [Day 07](log/11-07-2016.md) - Read: `frontend: web fonts loader` `ux: confirmation` `ux: empathy` / Did: `english class` `gym` `javascript course` 
+- Day 08 - Did: `trip to porto alegre` `show guns n roses`
+- Day 09 - Did: `trip to porto alegre` 
 
 
