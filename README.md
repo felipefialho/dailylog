@@ -307,6 +307,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 11](log/11-11-2016.md) - Read: `frontend: rgba colors` `front: devtools` `front: performatic websites` `ux: tooltips` `ux: devil as a designer` / Did: `gym` `javascript course` 
 - Day 12 - Did: `outback steakhouse` 
 - Day 13 - Did: `wedding` `beer with friends` 
-- Day 14 - Read: `no articles today` / Did: `gym`
+- Day 14 - Read: `no articles today` / Did: `holiday` 
+- Day 15 - Read: `no articles today` / Did: `holiday`
 
 
