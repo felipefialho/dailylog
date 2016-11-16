@@ -308,6 +308,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 12 - Did: `outback steakhouse` 
 - Day 13 - Did: `wedding` `beer with friends` 
 - Day 14 - Read: `no articles today` / Did: `holiday` 
-- Day 15 - Read: `no articles today` / Did: `holiday`
+- Day 15 - Read: `no articles today` / Did: `holiday` `gym`
+- [Day 16](log/11-16-2016.md) - Read: `frontend: cdn` `front: css grid` / Did: `english class` `gym` 
+
 
 
