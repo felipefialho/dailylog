@@ -310,6 +310,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 14 - Read: `no articles today` / Did: `holiday` 
 - Day 15 - Read: `no articles today` / Did: `holiday` `gym`
 - [Day 16](log/11-16-2016.md) - Read: `frontend: cdn` `front: css grid` / Did: `english class` `gym` 
+- Day 17 - Read: `very buzy!` Did: `gym` `javascript course`
 
 
 
