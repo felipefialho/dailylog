@@ -315,6 +315,9 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 19 - Did: `nordeste food` `beer with friends` 
 - Day 20 - Did: `soccer` `javascript course`
 - [Day 21](log/11-21-2016.md) - Read: `frontend: playlists` `frontend: clipboard` `frontend: color fonts` `frontend: webpack 2` `ux: user-centered design` / Did: `english class` `gym` 
+- [Day 22](log/11-22-2016.md) - Read: `frontend: frontend + fatigue` `frontend: css inheritance` / Did: `talk: produto sp` `run` 
+
+
 
 
 
