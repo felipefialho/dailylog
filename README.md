@@ -317,7 +317,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 21](log/11-21-2016.md) - Read: `frontend: playlists` `frontend: clipboard` `frontend: color fonts` `frontend: webpack 2` `ux: user-centered design` / Did: `english class` `gym` 
 - [Day 22](log/11-22-2016.md) - Read: `frontend: frontend + fatigue` `frontend: css inheritance` / Did: `talk: produto sp` `run` 
 - [Day 23](log/11-23-2016.md) - Read: `frontend: guidelines` `frontend: native apps are doomed` `frontend: css list markers` `frontend: css keyframes` `ux: mobile design` / Did: `english class` `meetupcss meeting`
-- Day 24 - Read: `no articles today` / Did: `run` `beer with friends`
+- Day 24 - Read: `buzy: no articles today` / Did: `run` `beer with friends`
+- Day 25 - Read: `buzy: no articles today` / Did: `gym` `javascript course`
 
 
 
