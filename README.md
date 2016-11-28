@@ -319,8 +319,9 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 23](log/11-23-2016.md) - Read: `frontend: guidelines` `frontend: native apps are doomed` `frontend: css list markers` `frontend: css keyframes` `ux: mobile design` / Did: `english class` `meetupcss meeting`
 - Day 24 - Read: `buzy: no articles today` / Did: `run` `beer with friends`
 - Day 25 - Read: `buzy: no articles today` / Did: `gym` `javascript course`
-- Day 27 - Did: `feijuca` `beer with friends` 
-- Day 28 - Did: `soccer` `beer with friends` `samba` `osaka: japanese food` 
+- Day 26 - Did: `feijuca` `beer with friends` 
+- Day 27 - Did: `soccer` `beer with friends` `samba` `osaka: japanese food` 
+- [Day 28](log/11-28-2016.md) - Read: `frontend: postcss` `frontend: html usage` / Did: `english class` `gym`
 
 
 
