@@ -322,7 +322,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 26 - Did: `feijuca` `beer with friends` 
 - Day 27 - Did: `soccer` `beer with friends` `samba` `osaka: japanese food` 
 - [Day 28](log/11-28-2016.md) - Read: `frontend: postcss` `frontend: html usage` / Did: `english class` `gym`
-
+- Day 29 - Did: `rip chape :( :( :(` `meetupcss` 
+- Day 30 - Did: `rip chape :( :( :(` `english class`
 
 
 
