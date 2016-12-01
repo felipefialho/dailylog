@@ -327,7 +327,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 
 ### Dez
 
-- Day 01 - Read: `buzy: no articles today` / Did: `run` 
+- [Day 01](log/12-01-2016.md) - Read: `frontend: nesting your bem?` `ux: placeholder` `ux: hamburguer menu` `seo: google + mobile first`
+ / Did: `run` 
 
 
 
