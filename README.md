@@ -270,16 +270,16 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 09 - Did: `soccer` `beer with friends` `mexicanissimo mexican food`
 - [Day 10](log/10-05-2016.md) - Read: `frontend: css filters` `ux: gestures` `ux: bad features` Did: `gym` `english class` `javascript course`
 - [Day 11](log/10-11-2016.md) - Read: `frontend: code patterns` `frontend: javascript in 2016` `ux: card user interfaces` `ux: slack organization` Did: `gym` `javascript course`
-- Day 12 - Read: `no articles today`
-- Day 13 - Read: `no articles today` Did: `trip do blumenal`
+- Day 12 - Did: `trip do blumenal`
+- Day 13 - Did: `trip do blumenal`
 - Day 14 - Did: `trip do blumenal` `oktuberfest`
 - Day 15 - Did: `trip do blumenal` `oktuberfest`
 - Day 16 - Did: `trip do floripa`
-- Day 17 - Read: `no articles today` Did: `trip do floripa`
-- Day 18 - Read: `no articles today` Did: `trip do floripa`
-- Day 19 - Read: `no articles today` Did: `trip do floripa`
-- Day 20 - Read: `no articles today` Did: `trip do floripa`
-- Day 21 - Read: `no articles today` Did: `trip do floripa`
+- Day 17 - Did: `trip do floripa`
+- Day 18 - Did: `trip do floripa`
+- Day 19 - Did: `trip do floripa`
+- Day 20 - Did: `trip do floripa`
+- Day 21 - Did: `trip do floripa`
 - Day 22 - Did: `trip do floripa` `niwa japonese food`
 - Day 23 - Did: `soccer` `beer with friends`
 - [Day 24](log/10-24-2016.md) - Read: `frontend: normalize no more` `frontend: multiple background images` `ux: icons` `ux: hold music purgatory` `ux: new features like a son` Did: `gym` `english class` 
@@ -307,8 +307,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 11](log/11-11-2016.md) - Read: `frontend: rgba colors` `front: devtools` `front: performatic websites` `ux: tooltips` `ux: devil as a designer` / Did: `gym` `javascript course` 
 - Day 12 - Did: `outback steakhouse` 
 - Day 13 - Did: `wedding` `beer with friends` 
-- Day 14 - Read: `no articles today` / Did: `holiday` 
-- Day 15 - Read: `no articles today` / Did: `holiday` `gym`
+- Day 14 - Did: `holiday` 
+- Day 15 - Did: `holiday` `gym`
 - [Day 16](log/11-16-2016.md) - Read: `frontend: cdn` `frontend: css grid` / Did: `english class` `gym` 
 - Day 17 - Read: `very buzy!` Did: `gym` `new article`
 - Day 18 - Read: `very buzy!` Did: `gym` `javascript course`
