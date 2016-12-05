@@ -330,6 +330,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 01](log/12-01-2016.md) - Read: `frontend: nesting your bem?` `ux: placeholder` `ux: hamburguer menu` `seo: google + mobile first`
  / Did: `run` 
 - [Day 02](log/12-02-2016.md) - Read: `ux: microinteractions` / Did: `gym` 
+- Day 03 - Did: `naoto: japanese food` 
+- Day 04 - Did: `soccer` `show black sabbath`
 
 
 
