@@ -332,6 +332,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 02](log/12-02-2016.md) - Read: `ux: microinteractions` / Did: `gym` 
 - Day 03 - Did: `naoto: japanese food` 
 - Day 04 - Did: `soccer` `show black sabbath`
+- [Day 05](log/12-05-2016.md) - Read: `frontend: angular 2` `ux: trends 2017` / Did: `english class` `gym`
 
 
 
