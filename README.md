@@ -2,8 +2,6 @@
   <img src="https://cloud.githubusercontent.com/assets/3603793/18837293/9f2732da-83d9-11e6-8a7d-a421115f6b84.png" alt="Daily Icon" width="150" />
 </p>
 
-
-
 # dailylog
 
 My daily log day after day.
@@ -333,6 +331,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 03 - Did: `naoto: japanese food` 
 - Day 04 - Did: `soccer` `show black sabbath`
 - [Day 05](log/12-05-2016.md) - Read: `frontend: angular 2` `ux: trends 2017` / Did: `english class` `gym`
+- [Day 06](log/12-06-2016.md) - Read: `frontend: loop in preprocessors` `frontend: essential meta tags` `frontend: sharing links` `ux: testing sessions` `ux: panda dancing` / Did: `javascript course` `run`
 
 
 
