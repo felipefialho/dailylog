@@ -219,8 +219,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 28 - Did: `trip: campos do jordao`
 - Day 29 - Did: `after trip: campos do jordao` `gym` `english class`
 - [Day 30](log/08-30-2016.md) - Read: `front: css positioning` `front: donut chart + css` `front: extensible components` `ux: user outdated` `ux: reality show` Did: `soccer` `barbecue`
-- [Day 31](log/08-31-2016.md) - Read: 
-`front: about performance` `front: element queries` `ux: mobile app` `ux: hamburguer menu` `ux: grids` `finances: passive barriers` Did: `gym` `english class`
+- [Day 31](log/08-31-2016.md) - Read: `front: about performance` `front: element queries` `ux: mobile app` `ux: hamburguer menu` `ux: grids` `finances: passive barriers` Did: `gym` `english class`
 
 ### Sep
 
@@ -331,7 +330,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 03 - Did: `naoto: japanese food` 
 - Day 04 - Did: `soccer` `show black sabbath`
 - [Day 05](log/12-05-2016.md) - Read: `frontend: angular 2` `ux: trends 2017` / Did: `english class` `gym`
-- [Day 06](log/12-06-2016.md) - Read: `frontend: loop in preprocessors` `frontend: essential meta tags` `frontend: sharing links` `ux: testing sessions` `ux: panda dancing` / Did: `nothing`
+- [Day 06](log/12-06-2016.md) - Read: `frontend: loop in preprocessors` `frontend: essential meta tags` `frontend: sharing links` `ux: testing sessions` `ux: panda dancing` / Did: `open source`
 - [Day 07](log/12-07-2016.md) - Read: `frontend: animated progress` `frontend:typescript` `frontend: top apps of zeno rocha` / Did: `english class` `gym`
 
 
