@@ -333,7 +333,9 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 06](log/12-06-2016.md) - Read: `frontend: loop in preprocessors` `frontend: essential meta tags` `frontend: sharing links` `ux: testing sessions` `ux: panda dancing` / Did: `open source`
 - [Day 07](log/12-07-2016.md) - Read: `frontend: animated progress` `frontend:typescript` `frontend: top apps of zeno rocha` / Did: `english class` `gym` `open source`
 - Day 08 - Read: `buzy: no articles today` / Did: `run` `javascript course` `open source`
-- [Day 09](log/12-09-2016.md) - Read: `frontend: what margin` `frontend: lazyload to disqus` `frontend: grid lines` / Did: `gym` 
+- [Day 09](log/12-09-2016.md) - Read: `frontend: what margin` `frontend: lazyload to disqus` `frontend: grid lines` / Did: `gym` `naoto japanese food`
+- Day 10 - Did: `barbecue + beer`
+- Day 11 - Did: `soccer` `mexicanissimo mexican food`
 
 
 
