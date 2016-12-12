@@ -336,9 +336,4 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 09](log/12-09-2016.md) - Read: `frontend: what margin` `frontend: lazyload to disqus` `frontend: grid lines` / Did: `gym` `naoto japanese food`
 - Day 10 - Did: `barbecue + beer`
 - Day 11 - Did: `soccer` `mexicanissimo mexican food`
-
-
-
-
-
-
+- [Day 12](log/12-12-2016.md) - Read: `frontend: css shorthand` `ux: this week` / Did: `english class` `gym`
