@@ -337,3 +337,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 10 - Did: `barbecue + beer`
 - Day 11 - Did: `soccer` `mexicanissimo mexican food`
 - [Day 12](log/12-12-2016.md) - Read: `frontend: css shorthand` `ux: this week` / Did: `english class` `gym`
+- [Day 13](log/12-13-2016.md) - Read: `frontend: travis ci` `ux: cards` `ux: chatbots` / Did: `javascript course` `run`
+
