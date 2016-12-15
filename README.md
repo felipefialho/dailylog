@@ -28,10 +28,10 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 05 - Did: `ragazzo` `osaka japanese food` `psicose` 
 - Day 06 - Did: `played soccer` `corinthians x santos` `ragazzo again!` 
 - [Day 07](log/03-07-2016.md) - Read: `will-change` `rucksack bug` `ux` `finances` `soccer` `technology` / Did: `english class` `gym`
-- [Day 08](log/03-08-2016.md) - Read: `input[value=""] tip` `learn english` `ux` `startups` `finances` `music` / Did: `bear with friends`
+- [Day 08](log/03-08-2016.md) - Read: `input[value=""] tip` `learn english` `ux` `startups` `finances` `music` / Did: `beer with friends`
 - [Day 09](log/03-09-2016.md) - Read: `masonry` `:not()` `finances` `technology` `science` `politics` / Did: `english class` `gym` `corinthians x cerro porteño`
 - [Day 10](log/03-10-2016.md) - Read: `performance` `async` `pseudo elements and javascript` `ux` `focus and productivity` / Did: `gym` `studied english` 
-- [Day 11](log/03-11-2016.md) - Read: `typography` `without jQuery` `aspect ratio` `interpolation` `finances` `technology` / Did: `bear with friends`
+- [Day 11](log/03-11-2016.md) - Read: `typography` `without jQuery` `aspect ratio` `interpolation` `finances` `technology` / Did: `beer with friends`
 - Day 12 - Did: `ragazzo` `osaka japanese food`  
 - Day 13 - Did: `played soccer` `cook homemade burguer` `sleep`
 - [Day 14](log/03-14-2016.md) - Read: `rem and em` `advanced css selectors` `postcss` `ux` `finances` / Did: `english class` `gym` 
@@ -39,14 +39,14 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 16](log/03-16-2016.md) - Read: `svg` `motion design + ux` `design` / Did: `english class` `gym` `corinthians x cerro porteño`
 - [Day 17](log/03-17-2016.md) - Read: `will-change` `menu mobile` `button design` `colors and emotions` `collapse of brazil` / Did: `gym`  
 - [Day 18](log/03-18-2016.md) - Read: `generation y` `collapse of brazil`
-- Day 19 - Did: `barbecue` `bear`  
+- Day 19 - Did: `barbecue` `beer`  
 - Day 20 - Did: `lunch with friends` 
 - [Day 21](log/03-21-2016.md) - Read: `twitter` `ux` `finances` / Did: `english class` `gym`
 - [Day 22](log/03-22-2016.md) - Read: `svg` `icons` `sublime` `ux` / Did:  `meetupcss` 
 - [Day 23](log/03-23-2016.md) - Read: `multiple columns` `nodejs` `ux` `finances` / Did: `english class` `gym`
 - [Day 24](log/03-24-2016.md) - Read: `full page animations` `git` `breaking of the internet` `ux` `politic` `science` / Did: `gym` 
-- Day 25 - Did: `trip to americana` `bear` 
-- Day 26 - Did: `trip to americana` `bear` `vodka` `barbecue`
+- Day 25 - Did: `trip to americana` `beer` 
+- Day 26 - Did: `trip to americana` `beer` `vodka` `barbecue`
 - Day 27 - Did: `trip to americana` `hangover`
 - [Day 28](log/03-28-2016.md) - Read: `font-face` `css` `nodejs` `ux` `finances` / Did: `english class`  
 - [Day 29](log/03-29-2016.md) - Read: `css` `github` `open source` `ux` `clt` / Did: `studied english` `gym` `write new article`
@@ -56,7 +56,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 ### Apr
 
 - [Day 01](log/04-01-2016.md) - Read: `finances` `music` `internet censorship` `corinthians x palmeiras` / Did: `gym` 
-- Day 02 - Did: `bear` `outback` `studied english`
+- Day 02 - Did: `beer` `outback` `studied english`
 - Day 03 - Did: `played soccer` `corinthians x palmeiras` `mexicanissimo` `open source: events`
 - [Day 04](log/04-04-2016.md) - Read:  `git` `ux` `stop learning` `finances` `guns n'roses` / Did: `english class` `gym` 
 - [Day 05](log/04-05-2016.md) - Read:  `css` `ux` `motivation` `finances` / Did: `gym` 
@@ -70,7 +70,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 13](log/04-13-2016.md) - Read: `frontend` `politic` `technology` / Did: `english class` `gym` `open source: events`
 - [Day 14](log/04-14-2016.md) - Read: `css` `ux` `work` `motivation` / Did: `gym` `open source: events`
 - [Day 15](log/04-15-2016.md) - Read: `ux` `svg` `balance your life` `juvenoia` / Did: `gym` 
-- Day 16 - Did: `party` `bear` `vodka` `barbecue`
+- Day 16 - Did: `party` `beer` `vodka` `barbecue`
 - Day 17 - Did: `club house food` `hangover`
 - [Day 18](log/04-18-2016.md) - Read: `css` `survey` `ux` / Did: `english test` `gym`
 - [Day 19](log/04-19-2016.md) - Read: `css` `survey abroad` `ux` `politic` / Did: `gym`
@@ -113,9 +113,9 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 23](log/05-23-2016.md) - Read: `head` `css` `ux` `work / motivation` / Did: `english class` `gym` `open source: my website` 
 - [Day 24](log/05-24-2016.md) - Read: `github` `timeline` `ux` `work / motivation`  / Did: `#meetupcss`
 - [Day 25](log/05-25-2016.md) - Read: `head` `css` `ux` `work / motivation` / Did: `english class` `gym` 
-- Day 26 - Did: `holiday` `soccer` `bear` `barbecue` 
+- Day 26 - Did: `holiday` `soccer` `beer` `barbecue` 
 - Day 27 - Did: `holiday` `family` 
-- Day 28 - Did: `holiday` `bear with friends` `real madrid x atletico madrid`
+- Day 28 - Did: `holiday` `beer with friends` `real madrid x atletico madrid`
 - Day 29 - Did: `holiday` `hangover` 
 - [Day 30](log/05-30-2016.md) - Read: `css` `ux` `work / motivation` / Did: `write new article` `english class` `gym` 
 - [Day 31](log/05-31-2016.md) - Read: `css` `ux` `work / motivation` / Did: `studied english` `gym`
@@ -125,7 +125,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 01](log/06-01-2016.md) - Read: `css` `ux` `work / motivation` / Did: `english class` `gym`
 - Day 02 - Did: `filtro reunion` 
 - [Day 03](log/06-03-2016.md) - Read: `css` `ux` / Did: `gym`
-- Day 04 - Did: `bear` `barbecue` 
+- Day 04 - Did: `beer` `barbecue` 
 - Day 05 - Did: `soccer` `sleep` 
 - [Day 06](log/06-06-2016.md) - Read: `css` `ux` `work / motivation` / Did: `english class` `gym`
 - [Day 07](log/06-07-2016.md) - Read: `sublime` `css` `ux` / Did: `studied english` `gym`
@@ -144,7 +144,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 20](log/06-20-2016.md) - Read: `front-end` `ux` / Did: `travel to americana` `gym`
 - [Day 21](log/06-21-2016.md) - Read: `front-end` `work / motivation` / Did: `travel to americana` `gym` 
 - [Day 22](log/06-22-2016.md) - Read: `front-end` `ux` `work / motivation` / Did: `travel to americana` `soccer`
-- [Day 23](log/06-23-2016.md) - Read: `front-end` `ux` `work / motivation` / Did: `travel to americana` `gym` `bear`
+- [Day 23](log/06-23-2016.md) - Read: `front-end` `ux` `work / motivation` / Did: `travel to americana` `gym` `beer`
 - [Day 24](log/06-24-2016.md) - Read: `front-end` `ux` `work / motivation` / Did: `travel to americana` 
 - Day 25 - Did: `longboard` `outback` 
 - Day 26 - Did: `soccer` `sleep` 
@@ -284,8 +284,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 26](log/10-26-2016.md) - Read: `design: about development` Did: `gym` `english class` 
 - [Day 27](log/10-27-2016.md) - Read: `frontend: responsive images + css` `frontend: responsive images + client hints` `frontend: css variables x preprocessor variables` Did: `gym` `survey 2016`
 - Day 28 - Read: `no articles today` Did: `gym` `javascript course`
-- Day 29 - Did: `bear bear bear bear bear` `marriage` `samba` `bear bear bear bear bear`
-- Day 30 - Did: `bear` `samba`
+- Day 29 - Did: `beer beer beer beer beer` `marriage` `samba` `beer beer beer beer beer`
+- Day 30 - Did: `beer` `samba`
 - [Day 31](log/10-31-2016.md) - Read: ``frontend: css shapes` `frontend: carousels` `ux: ux week` `ux: reducing visual noise` Did: `english class` `gym` `javascript course` 
 
 ### Nov
@@ -294,7 +294,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 02 - Did: `flying sushi: japanese food`
 - [Day 03](log/11-03-2016.md) - Read: `frontend: css grid` / Did: `javascript course` `gym`
 - [Day 04](log/11-04-2016.md) - Read: `frontend: multiple bg` `frontend: yarn` `frontend: robust css` `tech: apple and new mac book` / Did: `javascript course` `gym`
-- Day 05 - Did: `bachelor party + bear bear bear bear`
+- Day 05 - Did: `bachelor party + beer beer beer beer`
 - Day 06 - Did: `soccer` `niwa: japanese food`
 - [Day 07](log/11-07-2016.md) - Read: `frontend: web fonts loader` `ux: confirmation` `ux: empathy` / Did: `english class` `gym` `javascript course` 
 - Day 08 - Did: `trip to porto alegre` `show guns n roses`
