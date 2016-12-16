@@ -339,5 +339,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 12](log/12-12-2016.md) - Read: `frontend: css shorthand` `ux: this week` / Did: `english class` `gym`
 - [Day 13](log/12-13-2016.md) - Read: `frontend: travis ci` `ux: cards` `ux: chatbots`
 - Day 14 - Read: `buzy: no articles today` / Did: `gym` `new article`
-- Day 15 - Read: `buzy: no articles today` / Did: `run`
+- Day 15 - Read: `buzy: no articles today` 
+- [Day 16](log/12-16-2016.md) - Read: `ux: reading about ux` / Did: `gym` 
+
 
