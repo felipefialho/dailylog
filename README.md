@@ -340,6 +340,9 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 13](log/12-13-2016.md) - Read: `frontend: travis ci` `ux: cards` `ux: chatbots`
 - Day 14 - Read: `buzy: no articles today` / Did: `gym` `new article`
 - Day 15 - Read: `buzy: no articles today` 
-- [Day 16](log/12-16-2016.md) - Read: `ux: reading about ux` / Did: `gym` 
+- [Day 16](log/12-16-2016.md) - Read: `ux: reading about ux` / Did: `gym` `jukebox burger` 
+- Day 17 - Did: `barbecue + beer`
+- Day 18 - Did: `soccer` `mexicanissimo mexican food`
+- Day 19 - end of the year :)`
 
 
