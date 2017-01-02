@@ -343,6 +343,23 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 16](log/12-16-2016.md) - Read: `ux: reading about ux` / Did: `gym` `jukebox burger` 
 - Day 17 - Did: `barbecue + beer`
 - Day 18 - Did: `soccer` `mexicanissimo mexican food`
-- Day 19 - end of the year :)`
+- Day 19 - `end of the year :)`
+- Day 20 - `end of the year :)`
+- Day 21 - `end of the year :)`
+- Day 22 - `end of the year :)`
+- Day 23 - `end of the year :)`
+- Day 24 - `end of the year :)`
+- Day 25 - `end of the year :)`
+- Day 26 - `end of the year :)`
+- Day 27 - `end of the year :)`
+- Day 28 - `end of the year :)`
+- Day 29 - `end of the year :)`
+- Day 30 - `end of the year :)`
+- Day 31 - `end of the year :)`
 
+## 2017 
+
+### Jan
+
+- Day 01 - `happy new year o/`
 
