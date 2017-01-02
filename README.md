@@ -362,4 +362,6 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 ### Jan
 
 - Day 01 - `happy new year o/`
+- [Day 02](log/02-01-2017.md) - Read: `front: impostor syndrome` `ux: minimalist design` `ux: curly quotes`
+ / Did: `gym`
 
