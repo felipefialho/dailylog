@@ -364,4 +364,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 01 - `happy new year o/`
 - [Day 02](log/01-02-2017.md) - Read: `front: impostor syndrome` `ux: minimalist design` `ux: curly quotes`
  / Did: `gym`
+- [Day 03](log/01-03-2017.md) - Read: `front: use images fron production` `front: show scroll bars` `ux: vocalizer.js` `ux: google home` / Did: `run`
 
