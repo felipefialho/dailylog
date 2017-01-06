@@ -366,7 +366,5 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
  / Did: `gym`
 - [Day 03](log/01-03-2017.md) - Read: `front: use images fron production` `front: show scroll bars` `ux: vocalizer.js` `ux: google home` / Did: `run` `new article`
 - Day 04 - Did: `gym`
-- [Day 05](log/01-05-2017.md) - Read: `ux: ux and psychology` `work: mourning routine` / Did: `run` 
-
-
-
+- [Day 05](log/01-05-2017.md) - Read: `ux: ux and psychology` `work: mourning routine`
+- [Day 05](log/01-05-2017.md) - Read: `ux: cut your site` `ux: microinteractions` / Did: `gym`
