@@ -8,6 +8,20 @@ My daily log day after day.
 
 Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog/)
 
+## 2017 
+
+### Jan
+
+- Day 01 - `happy new year o/`
+- [Day 02](log/01-02-2017.md) - Read: `front: impostor syndrome` `ux: minimalist design` `ux: curly quotes`
+ / Did: `gym`
+- [Day 03](log/01-03-2017.md) - Read: `front: use images fron production` `front: show scroll bars` `ux: vocalizer.js` `ux: google home` / Did: `run` `new article`
+- Day 04 - Did: `gym`
+- [Day 05](log/01-05-2017.md) - Read: `ux: ux and psychology` `work: mourning routine`
+- [Day 06](log/01-06-2017.md) - Read: `ux: cut your site` `ux: microinteractions` / Did: `gym`
+- Day 07 - Did: `japanese food: kasai` `drink with friends`
+- Day 08 - Did: `soccer` `hamburguer low carb` 
+
 ## 2016 
 
 ### Fev
@@ -356,15 +370,3 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 29 - `end of the year :)`
 - Day 30 - `end of the year :)`
 - Day 31 - `end of the year :)`
-
-## 2017 
-
-### Jan
-
-- Day 01 - `happy new year o/`
-- [Day 02](log/01-02-2017.md) - Read: `front: impostor syndrome` `ux: minimalist design` `ux: curly quotes`
- / Did: `gym`
-- [Day 03](log/01-03-2017.md) - Read: `front: use images fron production` `front: show scroll bars` `ux: vocalizer.js` `ux: google home` / Did: `run` `new article`
-- Day 04 - Did: `gym`
-- [Day 05](log/01-05-2017.md) - Read: `ux: ux and psychology` `work: mourning routine`
-- [Day 06](log/01-06-2017.md) - Read: `ux: cut your site` `ux: microinteractions` / Did: `gym`
