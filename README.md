@@ -21,6 +21,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 06](log/01-06-2017.md) - Read: `ux: cut your site` `ux: microinteractions` / Did: `gym`
 - Day 07 - Did: `japanese food: kasai` `drink with friends`
 - Day 08 - Did: `soccer` `hamburguer low carb` 
+- [Day 09](log/01-09-2017.md) - Read: `frontend: horizontal and vertical writings` `frontend" colorme` `ux: more companies like medium` `ux: flat design` `ux: pixel density` / Did: `gym`
+
 
 ## 2016 
 
