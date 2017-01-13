@@ -24,8 +24,9 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 09](log/01-09-2017.md) - Read: `frontend: horizontal and vertical writings` `frontend: colorme` `ux: more companies like medium` `ux: flat design` `ux: pixel density` / Did: `gym` 
 - Day 10 - Read: `no articles today`
 - [Day 11](log/01-11-2017.md) - Read: `frontend: css evolution` `ux: design critique` `ux: functional animation` / Did: `gym` `javascript course`
-- Day 10 - Read: `no articles today` / Did: `gym` `javascript course`
-
+- Day 12 - Read: `no articles today` / Did: `gym`
+- [Day 13](log/01-13-2017.md) - Read: `frontend: centered text + flexbox` `ux: ux helps to learn english` `ux: 1 star review`
+ / Did: `gym` `javascript course`
 
 ## 2016 
 
