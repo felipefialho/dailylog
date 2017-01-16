@@ -26,7 +26,9 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 11](log/01-11-2017.md) - Read: `frontend: css evolution` `ux: design critique` `ux: functional animation` / Did: `gym` `javascript course`
 - Day 12 - Read: `no articles today` / Did: `gym`
 - [Day 13](log/01-13-2017.md) - Read: `frontend: centered text + flexbox` `ux: ux helps to learn english` `ux: 1 star review`
- / Did: `gym` `javascript course`
+ / Did: `gym`
+- Day 14 - Did: `mis: silvio santos` `barbecue`
+- Day 15 - Did: `soccer` `beer with friends` 
 
 ## 2016 
 
