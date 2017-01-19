@@ -31,7 +31,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 15 - Did: `soccer` `beer with friends` 
 - [Day 16](log/01-16-2017.md) - Read: `frontend: about ireland` `frontend: clean code to javascript` `ux: functional animations` `ux: long scrolling` / Did: `gym`
 - Day 17 - Read: `no articles today` / Did: `sick =/`
-- [Day 18](log/01-18-2017.md) - Read: ``frontend: css writing modes` `frontend: styled components` `frontend: shared variables`  / Did: `sick =/`
+- [Day 18](log/01-18-2017.md) - Read: ``frontend: css writing modes` `frontend: styled components` `frontend: shared variables`  / Did: `sick =/` `japanese food`
+- Day 19 - Read: `no articles today` / Did: `sick =/`
 
 
 
