@@ -34,6 +34,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 18](log/01-18-2017.md) - Read: `frontend: css writing modes` `frontend: styled components` `frontend: shared variables`  / Did: `sick =/` `japanese food`
 - Day 19 - Read: `no articles today` / Did: `sick =/` `bear with friends`
 - [Day 20](log/01-20-2017.md) - Read: `frontend: magic with css` `ux: hero images` / Did: `gym`
+- Day 21 - Did: `japanese food: naoto`
+- Day 22 - Did: `soccer` 
 
 
 ## 2016 
