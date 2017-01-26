@@ -39,6 +39,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 23](log/01-23-2017.md) - Read: `frontend: webpack` `frontend: bash shortcuts` / Did: `gym` `javascript course`
 - [Day 24](log/01-24-2017.md) - Read: `frontend: npm cache` `ux: ui design` `ux: bookmark + twitter` `ux: ux intelligence`
  / Did: `javascript course`
+ - Day 25 - Did: `holiday` `pacaembu: corinthians x batatais`
 
 ## 2016 
 
