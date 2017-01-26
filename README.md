@@ -40,6 +40,9 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 24](log/01-24-2017.md) - Read: `frontend: npm cache` `ux: ui design` `ux: bookmark + twitter` `ux: ux intelligence`
  / Did: `javascript course`
  - Day 25 - Did: `holiday` `pacaembu: corinthians x batatais`
+- [Day 26](log/01-26-2017.md) - Read: `frontend: end of clearfix` `front: values on javascript` `front: devtools`
+ / Did: `javascript course` `gym`
+
 
 ## 2016 
 
