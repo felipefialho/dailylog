@@ -41,7 +41,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
  / Did: `javascript course`
  - Day 25 - Did: `holiday` `pacaembu: corinthians x batatais`
 - [Day 26](log/01-26-2017.md) - Read: `frontend: end of clearfix` `front: values on javascript` `front: devtools`
- / Did: `javascript course` `gym`
+ / Did: `javascript course` 
+- Day 27 - Read: `no articles today` / Did: `gym`
 
 
 ## 2016 
