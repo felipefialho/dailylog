@@ -45,6 +45,9 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 27 - Read: `no articles today` / Did: `gym`
 - Day 28 - Did: `barbecue` `barbecue 2x` `beer`
 - Day 29 - Did: `sleep`
+- [Day 30](log/01-30-2017.md) - Read: `frontend: improve github stars` `ux: typography` / Did: `gym` 
+
+
 
 
 ## 2016 
