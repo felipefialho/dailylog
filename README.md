@@ -43,6 +43,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - [Day 26](log/01-26-2017.md) - Read: `frontend: end of clearfix` `front: values on javascript` `front: devtools`
  / Did: `javascript course` 
 - Day 27 - Read: `no articles today` / Did: `gym`
+- Day 28 - Did: `barbecue` `barbecue 2x` `beer`
+- Day 29 - Did: `sleep`
 
 
 ## 2016 
