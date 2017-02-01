@@ -46,7 +46,11 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 28 - Did: `barbecue` `barbecue 2x` `beer`
 - Day 29 - Did: `sleep`
 - [Day 30](log/01-30-2017.md) - Read: `frontend: improve github stars` `ux: typography` / Did: `gym` 
-- [Day 31](log/01-31-2017.md) - Read: `frontend: css exclusions` `ux: redesign your site` / Did: `gym` 
+- [Day 31](log/01-31-2017.md) - Read: `frontend: css exclusions` `ux: redesign your site` / Did: `javascript course` 
+
+### Fev
+
+- [Day 01](log/02-01-2017.md) - Read: `frontend: align svg` `ux: accessibility on chatbots` / Did: `gym` 
 
 
 ## 2016 
