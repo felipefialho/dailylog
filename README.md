@@ -51,6 +51,8 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 ### Fev
 
 - [Day 01](log/02-01-2017.md) - Read: `frontend: align svg` `ux: accessibility on chatbots` / Did: `gym` 
+- Day 02 - Read: `no articles today` 
+- Day 03 - Read: `no articles today` / Did: `gym` `trip to caragua`
 
 
 ## 2016 
