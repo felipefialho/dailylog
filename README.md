@@ -55,6 +55,14 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 03 - Read: `no articles today` / Did: `gym` `trip to caragua`
 - Day 04 - Did: `trip to caragua`
 - Day 05 - Did: `trip to caragua`
+- Day 06 - Did: 'trip to santiago'
+- Day 07 - Did: 'trip to santiago'
+- Day 08 - Did: 'trip to santiago'
+- Day 09 - Did: 'trip to santiago'
+- Day 10 - Did: 'trip to santiago'
+- Day 11 - Did: 'trip to santiago'
+- Day 12 - Did: 'trip to santiago'
+- Day 13 - Did: 'trip to santiago'
 
 
 ## 2016 
