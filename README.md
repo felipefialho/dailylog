@@ -63,7 +63,7 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 11 - Did: 'trip to santiago'
 - Day 12 - Did: 'trip to santiago'
 - Day 13 - Did: 'trip to santiago'
-
+- [Day 14](log/02-14-2017.md) - Read: `frontend: flexbox in animated gifs` `ux: terrible trends 2017` / Did: `javascript course` 
 
 ## 2016 
 
