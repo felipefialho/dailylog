@@ -67,6 +67,11 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 15 - Did: 'busy'
 - Day 16 - Did: 'tattoo'
 - Day 17 - Did: 'busy'
+- Day 18 - Did: `feujuca`
+- Day 19 - Did: `soccer` `chalezinho`
+- Day 20 - Did: `busy` `english class` `gym`
+- Day 22 - Did: `meetupcss` `new article`
+- Day 23 - Did: `busy` `english class` `gym`
 
 ## 2016 
 
