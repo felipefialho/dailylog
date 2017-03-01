@@ -78,6 +78,11 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 27 - Did: `carnival` `barbecue`
 - Day 28 - Did: `carnival` `gym`
 
+### Mar
+
+- [Day 01](log/03-01-2017.md) - Read: `frontend: learn with codepen` `ux: search box` `ux: chatbots` 
+
+
 ## 2016 
 
 ### Fev
