@@ -72,6 +72,11 @@ Inspired by [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog
 - Day 20 - Did: `busy` `english class` `gym`
 - Day 22 - Did: `meetupcss` `new article`
 - Day 23 - Did: `busy` `english class` `gym`
+- Day 24 - Did: `busy` `gym`
+- Day 25 - Did: `carnival` `barbecue`
+- Day 26 - Did: `carnival` `naoto sushi`
+- Day 27 - Did: `carnival` `barbecue`
+- Day 28 - Did: `carnival` `gym`
 
 ## 2016 
 
